@@ -1,0 +1,2926 @@
+id,Gender,Course,Social_Support,Counseling_Service_Use,Family_History,Residence_Type
+0,Male,Others,Moderate,No,No,On-Campus
+1,Female,Engineering,Low,Yes,No,On-Campus
+2,Female,Business,Moderate,Yes,No,On-Campus
+3,Male,Computer Science,Moderate,No,No,Off-Campus
+4,Male,Business,High,No,No,On-Campus
+6,Male,Law,Moderate,No,No,Off-Campus
+7,Female,Business,Low,No,Yes,On-Campus
+9,Female,Engineering,Low,Yes,Yes,Off-Campus
+10,Female,Law,Moderate,Yes,No,Off-Campus
+12,Male,Computer Science,Moderate,Yes,No,On-Campus
+15,Male,Law,Moderate,No,Yes,Off-Campus
+18,Male,Computer Science,Moderate,Yes,No,Off-Campus
+20,Male,Business,Low,No,No,On-Campus
+23,Female,Computer Science,Low,No,No,On-Campus
+27,Female,Computer Science,Moderate,No,Yes,Off-Campus
+28,Male,Others,Moderate,No,No,Off-Campus
+29,Female,Engineering,Moderate,Yes,Yes,On-Campus
+30,Female,Engineering,Moderate,No,No,On-Campus
+36,Male,Law,High,Yes,No,Off-Campus
+38,Female,Law,Moderate,Yes,No,Off-Campus
+41,Female,Law,High,Yes,No,Off-Campus
+49,Female,Law,High,No,Yes,On-Campus
+53,Female,Computer Science,High,No,No,On-Campus
+55,Female,Business,Low,No,No,On-Campus
+57,Female,Computer Science,Moderate,No,Yes,Off-Campus
+61,Male,Computer Science,High,No,No,Off-Campus
+62,Male,Engineering,Low,Yes,Yes,Off-Campus
+68,Female,Business,High,No,Yes,Off-Campus
+71,Male,Business,Low,No,No,On-Campus
+74,Male,Engineering,High,No,No,On-Campus
+77,Female,Engineering,Low,Yes,Yes,On-Campus
+82,Female,Computer Science,Moderate,No,No,On-Campus
+83,Female,Computer Science,Moderate,No,Yes,Off-Campus
+84,Female,Law,Low,Yes,No,On-Campus
+85,Male,Law,High,Yes,No,On-Campus
+86,Female,Engineering,High,No,No,On-Campus
+88,Female,Computer Science,High,No,No,Off-Campus
+90,Female,Computer Science,Moderate,No,No,On-Campus
+93,Male,Business,Moderate,No,Yes,Off-Campus
+96,Male,Law,Moderate,No,No,Off-Campus
+98,Male,Business,Low,No,No,On-Campus
+99,Male,Others,Moderate,No,No,On-Campus
+101,Male,Law,Low,No,No,Off-Campus
+110,Male,Computer Science,Moderate,No,No,Off-Campus
+111,Female,Computer Science,Moderate,Yes,No,On-Campus
+112,Female,Business,Low,Yes,No,Off-Campus
+116,Female,Engineering,Moderate,No,No,Off-Campus
+118,Female,Engineering,High,No,No,On-Campus
+119,Male,Computer Science,Moderate,Yes,No,Off-Campus
+122,Male,Computer Science,High,Yes,Yes,On-Campus
+124,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+126,Male,Computer Science,Moderate,No,No,Off-Campus
+133,Male,Computer Science,Moderate,No,Yes,Off-Campus
+137,Female,Computer Science,Low,Yes,No,Off-Campus
+138,Male,Engineering,Moderate,No,No,On-Campus
+140,Female,Law,High,No,Yes,Off-Campus
+141,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+144,Male,Business,Low,No,Yes,On-Campus
+146,Male,Business,Moderate,No,Yes,Off-Campus
+147,Female,Engineering,Moderate,No,No,On-Campus
+148,Male,Computer Science,High,No,No,On-Campus
+150,Male,Computer Science,Low,No,Yes,On-Campus
+152,Male,Law,Moderate,No,Yes,Off-Campus
+153,Female,Law,Moderate,No,No,Off-Campus
+154,Male,Others,Moderate,No,No,On-Campus
+160,Female,Engineering,Moderate,Yes,No,On-Campus
+169,Male,Business,Low,Yes,No,On-Campus
+176,Female,Business,High,Yes,No,Off-Campus
+177,Female,Others,Moderate,Yes,No,On-Campus
+180,Male,Engineering,Low,No,Yes,Off-Campus
+183,Male,Law,Moderate,No,Yes,Off-Campus
+184,Male,Computer Science,Moderate,No,No,On-Campus
+185,Female,Computer Science,High,No,No,On-Campus
+186,Male,Engineering,Moderate,No,No,On-Campus
+187,Female,Others,Moderate,Yes,No,On-Campus
+188,Female,Law,Moderate,No,No,On-Campus
+190,Male,Others,Moderate,Yes,No,Off-Campus
+191,Female,Law,High,Yes,Yes,On-Campus
+192,Female,Others,High,Yes,Yes,On-Campus
+196,Female,Computer Science,Moderate,No,No,On-Campus
+201,Female,Law,High,No,No,Off-Campus
+203,Male,Computer Science,Moderate,No,No,On-Campus
+209,Female,Engineering,High,Yes,Yes,On-Campus
+210,Female,Business,High,No,No,Off-Campus
+216,Female,Engineering,Moderate,No,No,Off-Campus
+218,Male,Law,Moderate,No,No,Off-Campus
+219,Male,Computer Science,High,Yes,No,On-Campus
+222,Male,Law,High,No,Yes,Off-Campus
+223,Male,Computer Science,Low,No,No,Off-Campus
+225,Female,Business,High,No,No,Off-Campus
+228,Female,Engineering,Moderate,Yes,No,Off-Campus
+230,Female,Law,Moderate,No,Yes,On-Campus
+233,Male,Law,Moderate,No,No,Off-Campus
+234,Female,Business,High,No,No,Off-Campus
+236,Male,Law,Low,No,No,On-Campus
+237,Female,Law,High,Yes,No,Off-Campus
+240,Male,Computer Science,High,Yes,No,On-Campus
+241,Female,Others,Low,No,No,Off-Campus
+243,Male,Business,Moderate,Yes,No,Off-Campus
+244,Female,Business,Moderate,No,Yes,Off-Campus
+248,Female,Law,Moderate,Yes,No,Off-Campus
+250,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+253,Male,Engineering,High,No,No,On-Campus
+254,Female,Computer Science,Low,No,Yes,On-Campus
+255,Male,Law,High,Yes,No,On-Campus
+257,Female,Business,High,No,No,Off-Campus
+258,Male,Law,Moderate,No,No,Off-Campus
+261,Female,Others,Moderate,Yes,Yes,On-Campus
+262,Female,Engineering,High,No,No,On-Campus
+263,Male,Computer Science,Moderate,No,No,On-Campus
+270,Female,Computer Science,Moderate,Yes,No,Off-Campus
+271,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+276,Male,Computer Science,Moderate,Yes,No,On-Campus
+279,Female,Engineering,High,No,No,Off-Campus
+280,Female,Others,Moderate,No,Yes,On-Campus
+282,Male,Business,Moderate,Yes,Yes,On-Campus
+283,Male,Business,Moderate,Yes,No,Off-Campus
+287,Male,Law,Moderate,Yes,No,Off-Campus
+288,Female,Law,Low,No,No,On-Campus
+289,Male,Others,Low,Yes,No,Off-Campus
+290,Male,Computer Science,High,Yes,Yes,Off-Campus
+291,Male,Law,Moderate,No,No,On-Campus
+297,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+299,Male,Others,High,Yes,Yes,On-Campus
+300,Male,Others,Moderate,Yes,No,Off-Campus
+301,Female,Others,High,No,No,Off-Campus
+304,Male,Engineering,High,No,No,On-Campus
+308,Female,Engineering,Moderate,Yes,No,On-Campus
+310,Male,Engineering,Moderate,No,Yes,Off-Campus
+311,Female,Business,Moderate,No,No,Off-Campus
+312,Female,Engineering,Low,No,Yes,Off-Campus
+316,Female,Business,Moderate,No,No,On-Campus
+321,Female,Engineering,Moderate,No,No,Off-Campus
+324,Female,Law,High,No,Yes,On-Campus
+326,Male,Computer Science,Moderate,Yes,No,Off-Campus
+328,Female,Others,High,No,No,Off-Campus
+329,Male,Law,High,Yes,Yes,On-Campus
+332,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+337,Female,Others,Moderate,Yes,Yes,On-Campus
+341,Male,Engineering,Low,No,No,Off-Campus
+343,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+344,Female,Business,Moderate,Yes,No,Off-Campus
+348,Female,Business,Moderate,No,Yes,On-Campus
+349,Male,Law,High,Yes,Yes,Off-Campus
+352,Female,Business,Moderate,Yes,No,On-Campus
+354,Female,Engineering,Moderate,No,No,Off-Campus
+359,Male,Computer Science,Low,Yes,Yes,Off-Campus
+361,Female,Engineering,Low,Yes,No,Off-Campus
+362,Male,Engineering,Moderate,No,No,On-Campus
+363,Male,Engineering,Moderate,No,No,Off-Campus
+364,Female,Computer Science,Low,Yes,No,On-Campus
+366,Male,Law,Moderate,No,No,On-Campus
+367,Female,Business,Moderate,No,No,On-Campus
+372,Female,Computer Science,High,Yes,Yes,On-Campus
+377,Male,Business,High,No,No,On-Campus
+378,Female,Others,Moderate,No,Yes,On-Campus
+379,Male,Others,High,No,Yes,Off-Campus
+381,Female,Others,Moderate,Yes,No,Off-Campus
+385,Female,Computer Science,High,Yes,Yes,Off-Campus
+389,Female,Computer Science,Moderate,Yes,No,Off-Campus
+392,Female,Law,Moderate,No,Yes,Off-Campus
+394,Male,Others,Moderate,No,No,Off-Campus
+399,Male,Others,High,Yes,No,On-Campus
+401,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+403,Male,Law,Moderate,Yes,No,Off-Campus
+405,Female,Law,Moderate,Yes,Yes,On-Campus
+409,Female,Engineering,Moderate,Yes,No,On-Campus
+412,Male,Others,High,Yes,No,Off-Campus
+415,Male,Law,Low,No,No,Off-Campus
+417,Male,Business,High,No,No,On-Campus
+418,Male,Others,Moderate,No,No,Off-Campus
+425,Female,Engineering,Moderate,No,No,On-Campus
+428,Female,Engineering,Moderate,Yes,No,Off-Campus
+430,Female,Law,Moderate,No,No,Off-Campus
+432,Male,Engineering,Moderate,Yes,Yes,On-Campus
+433,Male,Others,High,Yes,No,Off-Campus
+434,Male,Engineering,Moderate,No,No,Off-Campus
+436,Female,Business,Moderate,No,Yes,Off-Campus
+438,Male,Engineering,High,Yes,No,On-Campus
+439,Female,Computer Science,Moderate,No,Yes,On-Campus
+440,Male,Others,High,No,No,Off-Campus
+441,Female,Business,Moderate,Yes,No,Off-Campus
+444,Male,Others,Moderate,Yes,Yes,Off-Campus
+445,Female,Others,Moderate,No,No,On-Campus
+448,Female,Others,Moderate,No,No,On-Campus
+452,Female,Business,Moderate,No,No,Off-Campus
+453,Female,Engineering,Low,No,No,On-Campus
+454,Male,Others,Moderate,No,No,Off-Campus
+455,Male,Others,High,No,No,Off-Campus
+457,Female,Law,High,Yes,No,On-Campus
+460,Female,Computer Science,Moderate,No,No,On-Campus
+461,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+466,Female,Computer Science,Moderate,No,No,On-Campus
+467,Male,Others,High,No,No,Off-Campus
+472,Male,Law,High,No,Yes,On-Campus
+476,Male,Business,High,No,No,Off-Campus
+482,Female,Others,Moderate,Yes,No,On-Campus
+484,Male,Law,Moderate,Yes,No,Off-Campus
+487,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+490,Male,Computer Science,Moderate,No,No,Off-Campus
+491,Male,Law,High,No,No,Off-Campus
+495,Male,Others,Moderate,Yes,No,Off-Campus
+496,Female,Law,Moderate,No,No,On-Campus
+497,Male,Computer Science,High,Yes,Yes,On-Campus
+498,Male,Law,High,No,No,On-Campus
+499,Male,Law,Moderate,No,Yes,Off-Campus
+506,Male,Law,Low,No,No,On-Campus
+508,Male,Law,Moderate,Yes,No,Off-Campus
+516,Female,Business,Moderate,No,Yes,Off-Campus
+521,Female,Engineering,High,Yes,Yes,Off-Campus
+525,Male,Law,Moderate,Yes,No,Off-Campus
+526,Female,Others,Moderate,Yes,No,On-Campus
+527,Male,Law,Moderate,No,Yes,Off-Campus
+528,Female,Law,Moderate,No,No,On-Campus
+532,Female,Business,High,Yes,No,On-Campus
+537,Male,Business,High,No,Yes,On-Campus
+538,Female,Law,Low,No,No,On-Campus
+540,Male,Others,High,Yes,No,On-Campus
+544,Male,Others,High,Yes,No,On-Campus
+548,Female,Law,Moderate,No,No,Off-Campus
+549,Male,Law,Low,Yes,No,Off-Campus
+554,Female,Law,High,No,No,Off-Campus
+555,Female,Engineering,Low,No,Yes,Off-Campus
+556,Female,Computer Science,Moderate,No,No,Off-Campus
+557,Female,Engineering,High,No,Yes,On-Campus
+562,Female,Engineering,High,Yes,No,On-Campus
+564,Male,Others,Moderate,No,No,On-Campus
+565,Female,Others,Moderate,No,No,Off-Campus
+567,Female,Others,Moderate,Yes,No,On-Campus
+568,Female,Business,Moderate,No,No,On-Campus
+569,Male,Business,Moderate,No,Yes,Off-Campus
+571,Male,Engineering,Low,No,Yes,Off-Campus
+572,Female,Computer Science,Moderate,No,No,Off-Campus
+575,Female,Law,Moderate,No,No,On-Campus
+576,Female,Law,High,Yes,No,Off-Campus
+577,Female,Others,Moderate,No,No,On-Campus
+578,Female,Engineering,Moderate,No,Yes,On-Campus
+581,Female,Law,Moderate,No,No,On-Campus
+582,Female,Others,Moderate,Yes,No,On-Campus
+586,Female,Business,Moderate,No,Yes,Off-Campus
+587,Female,Engineering,Moderate,Yes,No,Off-Campus
+589,Female,Engineering,Low,Yes,No,Off-Campus
+590,Male,Computer Science,Low,Yes,No,On-Campus
+591,Male,Law,Moderate,Yes,No,Off-Campus
+595,Male,Law,Moderate,Yes,Yes,On-Campus
+596,Male,Computer Science,Low,No,No,On-Campus
+598,Male,Computer Science,High,No,No,Off-Campus
+600,Female,Computer Science,Low,No,No,On-Campus
+603,Female,Business,Low,No,No,Off-Campus
+608,Male,Engineering,High,Yes,No,Off-Campus
+609,Female,Others,High,Yes,No,Off-Campus
+616,Female,Business,Moderate,Yes,No,On-Campus
+620,Male,Law,Moderate,No,No,On-Campus
+621,Male,Law,Moderate,Yes,No,On-Campus
+622,Female,Engineering,Low,No,No,On-Campus
+624,Female,Computer Science,High,Yes,No,On-Campus
+628,Female,Law,Moderate,No,No,On-Campus
+630,Male,Others,Moderate,No,No,Off-Campus
+637,Female,Engineering,High,No,No,On-Campus
+639,Male,Law,Moderate,Yes,No,Off-Campus
+640,Male,Law,Low,No,No,Off-Campus
+642,Male,Law,Moderate,No,No,On-Campus
+644,Female,Law,Moderate,Yes,No,On-Campus
+645,Male,Law,Moderate,No,No,On-Campus
+649,Female,Business,High,No,No,Off-Campus
+651,Female,Law,Low,No,Yes,On-Campus
+655,Male,Engineering,Moderate,Yes,No,Off-Campus
+656,Male,Law,High,Yes,No,On-Campus
+662,Female,Law,Moderate,No,Yes,On-Campus
+663,Female,Law,Moderate,No,No,On-Campus
+664,Female,Engineering,Moderate,Yes,No,Off-Campus
+667,Female,Law,High,No,Yes,Off-Campus
+668,Female,Law,Moderate,Yes,No,On-Campus
+669,Female,Computer Science,Moderate,Yes,No,On-Campus
+678,Female,Computer Science,Moderate,Yes,No,Off-Campus
+681,Male,Law,Moderate,Yes,No,On-Campus
+682,Male,Law,Low,No,Yes,On-Campus
+685,Female,Engineering,Moderate,No,No,On-Campus
+686,Female,Computer Science,Moderate,Yes,No,On-Campus
+689,Female,Law,Moderate,No,Yes,On-Campus
+690,Male,Computer Science,Low,Yes,Yes,On-Campus
+692,Male,Engineering,High,Yes,No,Off-Campus
+698,Male,Business,Moderate,No,No,Off-Campus
+699,Male,Law,High,Yes,No,Off-Campus
+700,Female,Law,High,No,No,On-Campus
+701,Male,Business,High,No,No,Off-Campus
+702,Female,Law,High,Yes,No,Off-Campus
+704,Female,Engineering,Moderate,Yes,No,On-Campus
+705,Female,Law,High,Yes,No,On-Campus
+708,Female,Law,High,Yes,Yes,On-Campus
+711,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+712,Male,Law,Moderate,No,No,On-Campus
+715,Male,Engineering,Moderate,No,Yes,On-Campus
+717,Female,Others,Moderate,Yes,No,Off-Campus
+718,Male,Engineering,Moderate,Yes,No,Off-Campus
+719,Female,Business,Moderate,No,No,Off-Campus
+721,Female,Law,Moderate,No,Yes,Off-Campus
+724,Male,Law,Moderate,No,No,On-Campus
+729,Male,Engineering,Moderate,No,No,Off-Campus
+730,Male,Business,Moderate,Yes,No,Off-Campus
+731,Female,Others,Moderate,No,No,Off-Campus
+732,Female,Business,Moderate,No,Yes,On-Campus
+737,Female,Computer Science,Moderate,No,No,Off-Campus
+739,Male,Law,Moderate,No,Yes,Off-Campus
+743,Female,Law,Moderate,Yes,No,Off-Campus
+746,Female,Computer Science,High,No,Yes,Off-Campus
+747,Male,Computer Science,High,No,No,On-Campus
+749,Male,Computer Science,Moderate,Yes,No,On-Campus
+751,Male,Others,Moderate,No,No,Off-Campus
+755,Female,Law,Moderate,No,Yes,Off-Campus
+759,Female,Business,Moderate,Yes,Yes,On-Campus
+760,Male,Engineering,Moderate,Yes,No,On-Campus
+761,Male,Engineering,Moderate,Yes,No,On-Campus
+762,Male,Law,Moderate,Yes,No,Off-Campus
+763,Female,Engineering,Moderate,No,No,Off-Campus
+765,Male,Computer Science,High,No,No,Off-Campus
+766,Male,Engineering,High,Yes,Yes,On-Campus
+767,Male,Law,High,Yes,No,On-Campus
+771,Male,Others,High,No,No,On-Campus
+773,Male,Computer Science,High,Yes,Yes,Off-Campus
+774,Female,Engineering,Moderate,No,No,On-Campus
+776,Male,Computer Science,Low,No,No,Off-Campus
+782,Female,Law,High,Yes,No,On-Campus
+789,Female,Engineering,High,No,No,On-Campus
+791,Female,Law,High,Yes,No,On-Campus
+792,Female,Law,High,Yes,No,Off-Campus
+794,Male,Engineering,Moderate,No,Yes,On-Campus
+801,Male,Business,Moderate,No,Yes,On-Campus
+802,Male,Law,Moderate,Yes,No,On-Campus
+803,Male,Computer Science,Low,Yes,Yes,Off-Campus
+804,Male,Business,High,Yes,No,Off-Campus
+809,Female,Others,High,No,No,On-Campus
+810,Female,Law,Moderate,Yes,No,On-Campus
+813,Male,Law,Moderate,No,No,Off-Campus
+817,Female,Law,Moderate,No,No,On-Campus
+818,Female,Law,High,No,No,Off-Campus
+819,Male,Others,High,No,Yes,On-Campus
+823,Male,Engineering,High,Yes,No,On-Campus
+824,Male,Computer Science,Moderate,No,Yes,Off-Campus
+826,Female,Law,Moderate,No,No,On-Campus
+828,Male,Law,Moderate,Yes,No,On-Campus
+829,Female,Engineering,Moderate,No,No,Off-Campus
+830,Female,Law,High,No,No,Off-Campus
+831,Female,Law,High,No,No,Off-Campus
+838,Male,Others,Low,Yes,Yes,Off-Campus
+841,Female,Computer Science,Moderate,Yes,No,On-Campus
+843,Female,Computer Science,High,No,Yes,Off-Campus
+844,Male,Law,Moderate,No,Yes,Off-Campus
+846,Male,Computer Science,Low,No,No,Off-Campus
+852,Female,Computer Science,Low,No,No,Off-Campus
+854,Male,Business,High,Yes,Yes,Off-Campus
+856,Male,Computer Science,Low,No,No,Off-Campus
+857,Male,Engineering,Low,Yes,No,Off-Campus
+859,Male,Computer Science,Moderate,Yes,No,Off-Campus
+862,Female,Computer Science,High,Yes,No,Off-Campus
+863,Female,Law,Low,Yes,No,Off-Campus
+867,Male,Computer Science,Low,Yes,Yes,Off-Campus
+875,Male,Computer Science,Low,No,No,Off-Campus
+876,Male,Business,Moderate,No,No,On-Campus
+878,Male,Engineering,High,Yes,No,Off-Campus
+880,Male,Law,Low,No,No,Off-Campus
+881,Female,Others,Moderate,No,Yes,Off-Campus
+883,Male,Law,Moderate,Yes,No,Off-Campus
+886,Male,Computer Science,High,No,No,Off-Campus
+887,Female,Law,High,Yes,No,Off-Campus
+889,Male,Others,High,No,No,Off-Campus
+890,Male,Law,Moderate,No,No,Off-Campus
+891,Male,Business,High,Yes,No,On-Campus
+892,Male,Computer Science,High,No,Yes,Off-Campus
+898,Male,Business,Moderate,No,No,On-Campus
+899,Male,Others,Moderate,No,No,Off-Campus
+902,Male,Law,Moderate,No,Yes,Off-Campus
+904,Female,Engineering,Moderate,Yes,No,Off-Campus
+905,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+906,Male,Engineering,Moderate,No,Yes,On-Campus
+907,Male,Computer Science,Moderate,No,No,On-Campus
+909,Male,Law,High,No,No,On-Campus
+920,Male,Others,Moderate,Yes,Yes,On-Campus
+922,Female,Law,Low,No,Yes,On-Campus
+923,Male,Others,Moderate,No,No,On-Campus
+925,Female,Engineering,Moderate,No,No,Off-Campus
+926,Female,Computer Science,Moderate,No,No,On-Campus
+930,Female,Law,Moderate,Yes,No,Off-Campus
+933,Female,Business,Moderate,Yes,No,On-Campus
+935,Male,Law,Low,No,Yes,Off-Campus
+937,Male,Computer Science,High,Yes,Yes,On-Campus
+938,Female,Law,Moderate,No,No,On-Campus
+941,Male,Law,Moderate,No,No,On-Campus
+943,Female,Law,Low,No,No,On-Campus
+944,Female,Others,High,No,Yes,Off-Campus
+946,Female,Engineering,High,No,No,Off-Campus
+949,Female,Engineering,Moderate,Yes,No,Off-Campus
+955,Male,Law,Low,No,No,Off-Campus
+959,Female,Computer Science,Moderate,No,No,On-Campus
+961,Female,Engineering,High,No,Yes,On-Campus
+962,Male,Law,High,No,Yes,Off-Campus
+963,Female,Law,Moderate,Yes,Yes,Off-Campus
+970,Male,Engineering,High,Yes,Yes,On-Campus
+976,Male,Law,Low,No,No,Off-Campus
+979,Female,Others,Low,Yes,Yes,Off-Campus
+981,Female,Engineering,Low,Yes,No,On-Campus
+984,Female,Business,Moderate,Yes,No,On-Campus
+985,Female,Law,Moderate,Yes,Yes,Off-Campus
+990,Male,Computer Science,High,Yes,Yes,Off-Campus
+992,Male,Law,High,No,No,On-Campus
+993,Male,Business,Moderate,Yes,No,Off-Campus
+994,Female,Others,Low,Yes,No,Off-Campus
+996,Female,Law,High,Yes,No,On-Campus
+997,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+999,Female,Computer Science,Moderate,No,Yes,On-Campus
+1000,Male,Engineering,Low,No,No,Off-Campus
+1005,Male,Law,Moderate,No,No,On-Campus
+1006,Male,Engineering,Low,Yes,No,Off-Campus
+1009,Female,Law,High,No,Yes,On-Campus
+1013,Female,Others,Moderate,No,Yes,On-Campus
+1014,Female,Others,Moderate,No,No,Off-Campus
+1016,Female,Computer Science,High,Yes,Yes,Off-Campus
+1017,Male,Engineering,Moderate,No,No,On-Campus
+1024,Female,Engineering,Moderate,No,Yes,Off-Campus
+1028,Male,Engineering,Moderate,Yes,Yes,On-Campus
+1029,Female,Others,Moderate,No,No,On-Campus
+1030,Male,Others,Moderate,No,No,Off-Campus
+1040,Female,Computer Science,High,Yes,No,Off-Campus
+1041,Male,Engineering,High,No,Yes,Off-Campus
+1042,Female,Engineering,Low,No,No,Off-Campus
+1045,Female,Law,Moderate,No,Yes,Off-Campus
+1049,Female,Engineering,High,No,No,On-Campus
+1050,Male,Computer Science,High,Yes,Yes,Off-Campus
+1051,Female,Business,High,No,No,On-Campus
+1052,Female,Engineering,Moderate,Yes,Yes,On-Campus
+1055,Male,Computer Science,High,Yes,No,Off-Campus
+1057,Female,Computer Science,High,Yes,No,Off-Campus
+1060,Female,Engineering,Moderate,No,No,Off-Campus
+1061,Female,Computer Science,Moderate,No,Yes,On-Campus
+1067,Female,Law,Low,No,Yes,Off-Campus
+1068,Male,Law,Moderate,No,No,Off-Campus
+1069,Male,Engineering,High,No,No,Off-Campus
+1070,Female,Law,Moderate,No,No,Off-Campus
+1072,Male,Law,Low,No,No,Off-Campus
+1075,Female,Engineering,High,No,Yes,On-Campus
+1077,Male,Law,Moderate,No,No,Off-Campus
+1079,Female,Computer Science,Moderate,No,No,Off-Campus
+1080,Female,Computer Science,Moderate,No,Yes,Off-Campus
+1083,Male,Others,High,No,No,On-Campus
+1086,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+1091,Female,Business,Low,No,No,Off-Campus
+1093,Male,Law,High,No,No,On-Campus
+1095,Male,Law,Low,Yes,No,Off-Campus
+1096,Male,Computer Science,High,Yes,No,On-Campus
+1097,Female,Law,Moderate,Yes,No,On-Campus
+1098,Male,Law,High,Yes,No,On-Campus
+1099,Female,Law,Moderate,No,No,On-Campus
+1101,Male,Others,High,Yes,No,Off-Campus
+1107,Male,Engineering,Moderate,No,Yes,On-Campus
+1108,Male,Computer Science,High,Yes,Yes,On-Campus
+1109,Female,Others,Moderate,No,No,On-Campus
+1112,Male,Law,Moderate,No,No,Off-Campus
+1113,Female,Law,Moderate,Yes,No,Off-Campus
+1119,Male,Business,Moderate,No,No,On-Campus
+1122,Male,Computer Science,Moderate,No,No,Off-Campus
+1123,Male,Computer Science,Moderate,No,No,Off-Campus
+1124,Male,Engineering,Low,Yes,No,Off-Campus
+1126,Female,Business,Low,No,No,On-Campus
+1127,Female,Computer Science,High,No,No,On-Campus
+1128,Female,Computer Science,Moderate,No,No,Off-Campus
+1132,Female,Law,Low,No,No,Off-Campus
+1133,Female,Business,High,No,No,Off-Campus
+1134,Female,Engineering,Moderate,No,No,On-Campus
+1135,Male,Business,High,Yes,No,On-Campus
+1136,Female,Law,Moderate,Yes,No,On-Campus
+1139,Male,Computer Science,Moderate,Yes,No,On-Campus
+1140,Female,Business,High,Yes,No,Off-Campus
+1141,Female,Law,High,Yes,Yes,On-Campus
+1149,Female,Law,High,Yes,No,Off-Campus
+1155,Male,Others,High,No,No,Off-Campus
+1158,Male,Law,High,No,No,On-Campus
+1159,Female,Computer Science,High,Yes,No,On-Campus
+1161,Male,Business,Moderate,Yes,No,Off-Campus
+1163,Male,Law,Moderate,No,No,On-Campus
+1165,Female,Business,Low,No,Yes,Off-Campus
+1166,Female,Law,Moderate,No,No,Off-Campus
+1169,Female,Business,Moderate,No,Yes,Off-Campus
+1170,Male,Engineering,Low,No,No,On-Campus
+1172,Male,Engineering,High,No,No,On-Campus
+1175,Female,Engineering,High,Yes,No,Off-Campus
+1180,Female,Law,Moderate,No,No,On-Campus
+1181,Male,Others,Moderate,No,Yes,On-Campus
+1189,Male,Engineering,Moderate,No,Yes,On-Campus
+1192,Male,Engineering,Moderate,No,No,Off-Campus
+1198,Female,Engineering,Low,No,No,On-Campus
+1203,Male,Computer Science,Moderate,Yes,No,Off-Campus
+1204,Male,Engineering,Moderate,No,Yes,Off-Campus
+1205,Male,Others,High,Yes,No,Off-Campus
+1207,Male,Engineering,Low,Yes,No,Off-Campus
+1208,Male,Law,Low,No,No,Off-Campus
+1210,Female,Others,Moderate,No,No,On-Campus
+1214,Male,Law,Moderate,No,No,On-Campus
+1215,Male,Others,Moderate,Yes,No,On-Campus
+1217,Female,Engineering,Low,No,No,On-Campus
+1220,Male,Computer Science,Moderate,No,No,On-Campus
+1222,Female,Engineering,Low,Yes,Yes,Off-Campus
+1223,Male,Business,Moderate,No,No,Off-Campus
+1224,Male,Law,Moderate,No,Yes,Off-Campus
+1225,Female,Law,Low,No,Yes,Off-Campus
+1226,Female,Computer Science,Moderate,No,No,Off-Campus
+1228,Female,Engineering,Moderate,Yes,Yes,On-Campus
+1229,Female,Engineering,High,No,No,On-Campus
+1230,Female,Law,Moderate,Yes,No,On-Campus
+1231,Male,Engineering,Moderate,No,No,On-Campus
+1236,Female,Others,Low,Yes,Yes,Off-Campus
+1240,Female,Others,Low,Yes,No,On-Campus
+1242,Female,Law,Moderate,No,No,On-Campus
+1243,Male,Law,Moderate,No,Yes,On-Campus
+1244,Male,Business,Moderate,Yes,No,On-Campus
+1245,Female,Law,Moderate,No,No,On-Campus
+1246,Female,Law,High,No,Yes,On-Campus
+1251,Female,Others,Low,No,No,On-Campus
+1252,Male,Law,High,No,No,On-Campus
+1253,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+1255,Male,Computer Science,High,Yes,No,On-Campus
+1258,Female,Engineering,Moderate,No,Yes,Off-Campus
+1259,Male,Law,High,No,No,Off-Campus
+1260,Male,Computer Science,Moderate,Yes,No,On-Campus
+1261,Female,Engineering,Moderate,Yes,No,On-Campus
+1262,Male,Law,High,No,No,Off-Campus
+1263,Male,Law,Low,No,No,On-Campus
+1266,Male,Business,High,No,No,Off-Campus
+1267,Male,Engineering,Moderate,No,Yes,Off-Campus
+1268,Male,Business,High,No,Yes,Off-Campus
+1269,Female,Law,Moderate,No,No,On-Campus
+1271,Male,Engineering,Moderate,No,No,Off-Campus
+1273,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+1275,Male,Computer Science,Moderate,No,No,Off-Campus
+1277,Female,Computer Science,High,No,No,On-Campus
+1278,Female,Computer Science,High,Yes,No,Off-Campus
+1283,Male,Others,Low,No,No,On-Campus
+1289,Female,Computer Science,Moderate,No,No,On-Campus
+1291,Male,Computer Science,High,No,No,Off-Campus
+1292,Female,Others,High,No,No,On-Campus
+1294,Female,Business,Low,Yes,Yes,Off-Campus
+1296,Male,Law,Moderate,Yes,No,Off-Campus
+1298,Male,Others,Moderate,No,No,Off-Campus
+1302,Male,Others,Moderate,No,No,Off-Campus
+1305,Male,Law,High,No,Yes,On-Campus
+1307,Male,Engineering,High,Yes,Yes,On-Campus
+1308,Male,Law,High,No,Yes,On-Campus
+1310,Female,Others,Moderate,No,Yes,On-Campus
+1313,Male,Computer Science,Low,Yes,Yes,On-Campus
+1316,Female,Engineering,High,No,Yes,Off-Campus
+1319,Female,Engineering,Moderate,No,No,Off-Campus
+1320,Male,Law,High,No,No,On-Campus
+1321,Male,Computer Science,Moderate,No,No,Off-Campus
+1322,Male,Law,Moderate,Yes,No,On-Campus
+1324,Male,Law,Moderate,Yes,No,Off-Campus
+1327,Female,Law,Low,No,Yes,Off-Campus
+1328,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+1329,Male,Computer Science,Low,No,No,Off-Campus
+1331,Male,Computer Science,Moderate,Yes,No,Off-Campus
+1334,Male,Others,Moderate,No,No,On-Campus
+1338,Female,Business,High,No,No,On-Campus
+1341,Female,Law,Moderate,Yes,Yes,Off-Campus
+1346,Male,Law,Low,No,Yes,Off-Campus
+1347,Female,Engineering,Moderate,No,Yes,Off-Campus
+1348,Female,Others,Low,Yes,No,On-Campus
+1350,Female,Others,Moderate,No,No,Off-Campus
+1351,Female,Computer Science,Low,Yes,No,On-Campus
+1352,Female,Engineering,Low,Yes,No,On-Campus
+1353,Male,Business,Moderate,Yes,No,Off-Campus
+1356,Male,Others,Moderate,Yes,No,Off-Campus
+1357,Female,Engineering,Low,No,No,On-Campus
+1361,Male,Law,High,No,Yes,Off-Campus
+1364,Male,Others,Moderate,No,Yes,On-Campus
+1366,Female,Law,Moderate,No,No,Off-Campus
+1367,Male,Computer Science,High,Yes,Yes,Off-Campus
+1369,Female,Computer Science,Low,Yes,No,Off-Campus
+1374,Female,Law,Moderate,No,No,Off-Campus
+1375,Male,Engineering,Moderate,No,No,On-Campus
+1377,Female,Engineering,High,No,No,Off-Campus
+1380,Male,Engineering,Low,Yes,No,Off-Campus
+1381,Male,Others,High,No,Yes,Off-Campus
+1384,Female,Law,High,No,Yes,Off-Campus
+1385,Female,Law,Moderate,Yes,Yes,Off-Campus
+1393,Female,Others,High,No,No,On-Campus
+1400,Male,Business,Low,No,No,Off-Campus
+1405,Female,Computer Science,Moderate,No,No,Off-Campus
+1407,Male,Computer Science,Moderate,No,No,Off-Campus
+1413,Female,Engineering,High,No,No,On-Campus
+1417,Female,Computer Science,Low,Yes,No,On-Campus
+1419,Male,Business,High,Yes,Yes,Off-Campus
+1422,Male,Engineering,Moderate,No,No,Off-Campus
+1428,Female,Law,Moderate,Yes,No,Off-Campus
+1432,Female,Engineering,Moderate,No,Yes,Off-Campus
+1435,Male,Computer Science,High,Yes,No,On-Campus
+1436,Female,Law,Moderate,Yes,No,On-Campus
+1437,Male,Computer Science,Moderate,No,Yes,On-Campus
+1438,Female,Computer Science,Low,No,Yes,Off-Campus
+1440,Female,Law,Low,No,No,Off-Campus
+1444,Female,Engineering,Moderate,No,Yes,Off-Campus
+1446,Female,Law,Low,Yes,Yes,Off-Campus
+1449,Male,Computer Science,High,No,No,On-Campus
+1450,Male,Business,High,Yes,Yes,Off-Campus
+1452,Male,Law,Moderate,Yes,Yes,On-Campus
+1453,Female,Engineering,Low,No,Yes,On-Campus
+1455,Male,Law,High,No,No,Off-Campus
+1464,Male,Engineering,Low,No,No,On-Campus
+1465,Male,Law,High,No,No,On-Campus
+1466,Male,Others,Moderate,Yes,No,Off-Campus
+1467,Female,Computer Science,Low,Yes,No,Off-Campus
+1469,Female,Business,Moderate,Yes,No,On-Campus
+1470,Male,Business,Moderate,No,Yes,On-Campus
+1472,Male,Business,Moderate,No,No,On-Campus
+1474,Female,Computer Science,High,No,No,On-Campus
+1476,Male,Business,Low,Yes,Yes,On-Campus
+1477,Male,Computer Science,High,No,No,On-Campus
+1480,Female,Others,High,No,No,On-Campus
+1486,Male,Law,High,No,No,On-Campus
+1487,Male,Law,Moderate,No,No,Off-Campus
+1489,Male,Law,Moderate,No,No,On-Campus
+1490,Female,Others,Moderate,No,No,Off-Campus
+1491,Male,Engineering,Moderate,No,No,Off-Campus
+1492,Male,Business,Moderate,Yes,No,On-Campus
+1496,Female,Law,Moderate,Yes,No,Off-Campus
+1498,Male,Computer Science,Moderate,No,No,Off-Campus
+1502,Female,Computer Science,Moderate,No,No,Off-Campus
+1504,Female,Law,Moderate,Yes,No,Off-Campus
+1505,Male,Business,Low,No,No,Off-Campus
+1507,Female,Computer Science,Moderate,Yes,No,On-Campus
+1509,Male,Engineering,Moderate,Yes,No,Off-Campus
+1512,Female,Law,High,Yes,No,Off-Campus
+1515,Female,Computer Science,Moderate,Yes,No,On-Campus
+1519,Male,Engineering,Moderate,No,No,On-Campus
+1523,Female,Engineering,High,Yes,No,On-Campus
+1525,Female,Others,High,No,No,On-Campus
+1528,Female,Law,Moderate,Yes,Yes,On-Campus
+1530,Female,Business,High,Yes,Yes,Off-Campus
+1532,Female,Law,Moderate,No,No,Off-Campus
+1534,Male,Engineering,High,No,No,Off-Campus
+1535,Male,Business,High,No,Yes,Off-Campus
+1537,Female,Engineering,Low,Yes,No,Off-Campus
+1538,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+1539,Male,Engineering,Moderate,Yes,Yes,On-Campus
+1541,Female,Computer Science,Low,No,No,Off-Campus
+1544,Female,Engineering,Moderate,Yes,No,On-Campus
+1546,Male,Others,Low,Yes,No,Off-Campus
+1548,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+1550,Female,Others,Moderate,No,No,On-Campus
+1551,Male,Engineering,Moderate,Yes,No,Off-Campus
+1557,Male,Law,Moderate,No,No,On-Campus
+1560,Male,Computer Science,Low,No,No,On-Campus
+1561,Male,Engineering,Moderate,No,Yes,Off-Campus
+1565,Male,Others,High,No,No,On-Campus
+1566,Male,Others,Moderate,Yes,No,Off-Campus
+1568,Male,Engineering,Low,No,No,On-Campus
+1569,Female,Business,High,No,Yes,Off-Campus
+1570,Male,Business,Moderate,Yes,Yes,On-Campus
+1575,Male,Others,Moderate,Yes,No,On-Campus
+1577,Female,Computer Science,Moderate,Yes,No,Off-Campus
+1578,Female,Law,Low,Yes,No,Off-Campus
+1579,Male,Computer Science,Moderate,No,Yes,Off-Campus
+1586,Male,Computer Science,Moderate,Yes,No,Off-Campus
+1587,Female,Law,High,Yes,No,Off-Campus
+1590,Male,Law,High,No,No,On-Campus
+1591,Male,Others,High,Yes,No,On-Campus
+1592,Male,Business,Moderate,Yes,Yes,On-Campus
+1593,Male,Engineering,High,No,No,Off-Campus
+1594,Female,Business,Moderate,No,No,Off-Campus
+1595,Female,Computer Science,High,Yes,No,Off-Campus
+1597,Female,Engineering,Low,No,Yes,On-Campus
+1599,Male,Computer Science,High,No,No,On-Campus
+1603,Female,Law,Moderate,No,No,Off-Campus
+1605,Female,Computer Science,High,No,No,Off-Campus
+1610,Female,Engineering,Moderate,No,Yes,On-Campus
+1611,Male,Law,Moderate,No,Yes,On-Campus
+1612,Female,Computer Science,Moderate,No,No,Off-Campus
+1613,Male,Engineering,Low,No,No,Off-Campus
+1615,Female,Engineering,High,No,No,On-Campus
+1616,Female,Computer Science,High,No,No,Off-Campus
+1624,Female,Law,Low,No,No,On-Campus
+1627,Female,Law,Moderate,No,No,Off-Campus
+1628,Female,Law,High,Yes,No,Off-Campus
+1629,Female,Law,Moderate,No,No,Off-Campus
+1633,Male,Others,Moderate,Yes,No,On-Campus
+1636,Female,Business,High,Yes,Yes,On-Campus
+1637,Male,Others,High,No,No,On-Campus
+1638,Male,Business,Moderate,No,No,Off-Campus
+1639,Male,Law,High,No,Yes,On-Campus
+1643,Male,Law,Moderate,No,No,On-Campus
+1644,Female,Computer Science,Moderate,No,Yes,Off-Campus
+1646,Male,Law,Moderate,No,No,Off-Campus
+1648,Male,Law,Low,No,No,On-Campus
+1649,Male,Engineering,High,Yes,No,On-Campus
+1651,Male,Law,Low,No,No,Off-Campus
+1654,Male,Engineering,High,Yes,No,Off-Campus
+1656,Female,Computer Science,Moderate,No,No,Off-Campus
+1666,Male,Engineering,High,No,No,Off-Campus
+1667,Female,Others,High,No,No,On-Campus
+1672,Male,Business,Moderate,No,Yes,Off-Campus
+1673,Female,Law,High,No,Yes,On-Campus
+1678,Female,Computer Science,High,No,Yes,On-Campus
+1681,Female,Law,High,No,Yes,Off-Campus
+1683,Female,Business,Moderate,No,No,On-Campus
+1684,Male,Engineering,Moderate,Yes,No,On-Campus
+1687,Male,Engineering,Low,No,No,Off-Campus
+1688,Female,Others,Moderate,Yes,No,Off-Campus
+1695,Female,Law,Moderate,No,Yes,Off-Campus
+1700,Male,Engineering,High,Yes,Yes,On-Campus
+1701,Male,Law,High,Yes,No,Off-Campus
+1702,Female,Engineering,Moderate,Yes,No,On-Campus
+1703,Female,Others,Moderate,No,No,On-Campus
+1705,Male,Computer Science,Moderate,Yes,No,Off-Campus
+1709,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+1712,Female,Engineering,Moderate,No,No,Off-Campus
+1713,Female,Others,Moderate,No,No,On-Campus
+1714,Female,Law,Moderate,Yes,No,Off-Campus
+1715,Female,Others,Moderate,No,No,Off-Campus
+1717,Female,Others,Moderate,Yes,No,On-Campus
+1722,Male,Engineering,Moderate,No,No,Off-Campus
+1723,Male,Engineering,Moderate,No,No,Off-Campus
+1727,Female,Computer Science,Low,No,Yes,Off-Campus
+1728,Female,Others,High,Yes,No,Off-Campus
+1730,Male,Computer Science,Low,No,No,Off-Campus
+1731,Male,Engineering,Moderate,No,Yes,Off-Campus
+1735,Female,Law,Moderate,No,No,Off-Campus
+1736,Female,Business,Moderate,Yes,Yes,Off-Campus
+1737,Female,Law,High,No,Yes,Off-Campus
+1740,Male,Law,Moderate,No,No,On-Campus
+1743,Female,Engineering,Moderate,No,Yes,On-Campus
+1746,Female,Engineering,High,Yes,No,Off-Campus
+1751,Male,Business,Low,Yes,Yes,Off-Campus
+1752,Female,Business,Moderate,No,No,Off-Campus
+1753,Female,Computer Science,Moderate,Yes,No,Off-Campus
+1757,Male,Computer Science,High,No,No,On-Campus
+1761,Male,Law,High,No,Yes,On-Campus
+1763,Male,Business,High,No,No,Off-Campus
+1766,Male,Others,High,Yes,No,On-Campus
+1767,Female,Engineering,Moderate,No,Yes,On-Campus
+1772,Female,Engineering,Low,No,No,Off-Campus
+1773,Female,Law,Moderate,No,No,Off-Campus
+1775,Female,Others,Low,No,No,Off-Campus
+1776,Male,Others,High,No,No,On-Campus
+1780,Male,Computer Science,Moderate,No,Yes,Off-Campus
+1781,Male,Others,High,Yes,Yes,On-Campus
+1782,Female,Law,Low,No,Yes,On-Campus
+1785,Female,Business,Moderate,No,No,Off-Campus
+1786,Female,Others,Low,Yes,No,Off-Campus
+1790,Female,Computer Science,Low,No,No,Off-Campus
+1793,Male,Law,Moderate,No,No,Off-Campus
+1794,Male,Computer Science,Moderate,No,Yes,On-Campus
+1796,Male,Law,High,No,Yes,Off-Campus
+1797,Male,Law,Low,No,No,On-Campus
+1798,Female,Law,High,Yes,No,Off-Campus
+1799,Male,Law,Moderate,Yes,No,Off-Campus
+1800,Female,Law,Moderate,Yes,Yes,Off-Campus
+1801,Male,Others,High,No,Yes,Off-Campus
+1806,Female,Business,High,No,Yes,Off-Campus
+1809,Female,Law,Moderate,No,No,On-Campus
+1811,Female,Law,Moderate,No,No,On-Campus
+1812,Male,Law,Moderate,No,Yes,On-Campus
+1813,Female,Business,High,Yes,No,On-Campus
+1818,Female,Computer Science,Moderate,No,No,On-Campus
+1819,Male,Engineering,Low,Yes,Yes,On-Campus
+1820,Female,Law,High,No,No,Off-Campus
+1823,Female,Computer Science,High,No,No,Off-Campus
+1826,Male,Law,High,Yes,No,Off-Campus
+1828,Female,Law,Moderate,No,Yes,Off-Campus
+1830,Male,Law,High,No,Yes,On-Campus
+1833,Male,Computer Science,Moderate,No,No,On-Campus
+1837,Female,Engineering,Moderate,No,No,Off-Campus
+1839,Female,Law,High,Yes,No,Off-Campus
+1841,Male,Law,Moderate,No,No,Off-Campus
+1842,Male,Law,High,Yes,No,Off-Campus
+1852,Female,Law,Low,No,No,Off-Campus
+1856,Male,Law,Moderate,No,Yes,On-Campus
+1860,Male,Law,Low,Yes,No,Off-Campus
+1861,Female,Business,High,Yes,No,Off-Campus
+1862,Female,Law,Moderate,No,No,On-Campus
+1863,Male,Computer Science,Moderate,Yes,No,Off-Campus
+1864,Male,Others,Moderate,No,No,Off-Campus
+1866,Female,Law,High,No,No,On-Campus
+1867,Male,Law,Moderate,No,Yes,On-Campus
+1868,Female,Law,Moderate,Yes,No,Off-Campus
+1870,Male,Business,Moderate,Yes,Yes,On-Campus
+1871,Male,Business,High,Yes,Yes,Off-Campus
+1877,Female,Others,Moderate,No,Yes,On-Campus
+1879,Male,Law,Low,No,No,Off-Campus
+1882,Female,Others,Moderate,Yes,No,On-Campus
+1892,Male,Engineering,Moderate,Yes,No,On-Campus
+1893,Male,Engineering,Low,No,No,Off-Campus
+1896,Female,Law,High,Yes,Yes,On-Campus
+1899,Female,Others,Moderate,Yes,Yes,On-Campus
+1901,Female,Law,High,Yes,Yes,On-Campus
+1905,Female,Computer Science,Moderate,No,No,Off-Campus
+1910,Male,Law,High,Yes,Yes,On-Campus
+1914,Male,Business,High,No,No,Off-Campus
+1915,Female,Others,High,No,No,On-Campus
+1916,Male,Engineering,Moderate,Yes,No,Off-Campus
+1920,Female,Business,Moderate,No,Yes,On-Campus
+1926,Female,Engineering,High,Yes,Yes,On-Campus
+1931,Male,Business,Moderate,No,No,On-Campus
+1940,Male,Engineering,Low,Yes,No,Off-Campus
+1943,Female,Computer Science,High,No,No,Off-Campus
+1944,Female,Engineering,Moderate,No,Yes,On-Campus
+1945,Female,Law,Moderate,Yes,No,Off-Campus
+1946,Male,Computer Science,High,Yes,Yes,On-Campus
+1948,Female,Law,Moderate,Yes,No,Off-Campus
+1950,Male,Engineering,High,No,No,Off-Campus
+1951,Male,Law,Moderate,No,Yes,On-Campus
+1954,Female,Engineering,High,No,No,Off-Campus
+1955,Female,Computer Science,Low,Yes,Yes,On-Campus
+1956,Male,Computer Science,Moderate,No,Yes,On-Campus
+1957,Male,Computer Science,Low,No,Yes,On-Campus
+1958,Female,Law,High,No,Yes,Off-Campus
+1959,Female,Others,Moderate,No,No,Off-Campus
+1960,Female,Law,Moderate,No,No,Off-Campus
+1963,Male,Business,Moderate,No,No,On-Campus
+1965,Male,Law,Moderate,No,Yes,On-Campus
+1972,Male,Computer Science,High,No,Yes,On-Campus
+1973,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+1974,Male,Engineering,High,No,No,On-Campus
+1976,Female,Others,Moderate,No,Yes,On-Campus
+1983,Female,Engineering,Moderate,Yes,No,On-Campus
+1984,Female,Engineering,Moderate,Yes,Yes,On-Campus
+1986,Female,Business,Moderate,Yes,No,On-Campus
+1989,Male,Business,Moderate,No,Yes,Off-Campus
+1991,Male,Engineering,Moderate,No,No,Off-Campus
+1992,Female,Others,Moderate,Yes,Yes,On-Campus
+1996,Male,Others,High,No,No,Off-Campus
+1997,Female,Engineering,Moderate,Yes,No,Off-Campus
+1998,Female,Others,High,Yes,Yes,On-Campus
+1999,Male,Computer Science,Moderate,No,No,Off-Campus
+2002,Female,Business,Moderate,No,Yes,On-Campus
+2003,Female,Computer Science,High,No,Yes,Off-Campus
+2005,Male,Law,Moderate,No,No,Off-Campus
+2006,Female,Computer Science,Low,Yes,No,On-Campus
+2009,Female,Others,High,No,No,Off-Campus
+2010,Female,Others,High,No,No,Off-Campus
+2012,Male,Engineering,Moderate,No,No,Off-Campus
+2013,Male,Business,High,No,Yes,Off-Campus
+2014,Male,Others,Moderate,Yes,No,On-Campus
+2016,Male,Engineering,Moderate,Yes,No,Off-Campus
+2019,Female,Others,Low,No,No,On-Campus
+2020,Male,Computer Science,Low,No,No,Off-Campus
+2022,Female,Others,High,No,No,On-Campus
+2023,Male,Engineering,Low,Yes,No,On-Campus
+2025,Male,Engineering,High,Yes,Yes,On-Campus
+2026,Male,Law,Moderate,No,No,On-Campus
+2030,Female,Business,High,No,No,On-Campus
+2031,Male,Computer Science,Moderate,No,No,On-Campus
+2033,Male,Engineering,Low,No,No,On-Campus
+2035,Female,Engineering,Moderate,Yes,Yes,On-Campus
+2038,Female,Computer Science,Low,No,No,Off-Campus
+2044,Male,Others,High,No,No,On-Campus
+2045,Male,Business,Moderate,No,No,On-Campus
+2049,Female,Others,High,No,No,On-Campus
+2050,Male,Law,Moderate,Yes,No,Off-Campus
+2051,Female,Law,High,Yes,No,On-Campus
+2052,Male,Others,Moderate,No,No,On-Campus
+2053,Male,Engineering,Moderate,Yes,No,On-Campus
+2056,Female,Computer Science,Low,No,No,On-Campus
+2057,Male,Engineering,Low,Yes,No,On-Campus
+2061,Male,Law,High,No,No,On-Campus
+2062,Male,Business,Moderate,Yes,No,Off-Campus
+2064,Female,Business,High,No,No,On-Campus
+2066,Male,Business,Moderate,No,No,Off-Campus
+2067,Male,Business,Moderate,No,No,Off-Campus
+2068,Male,Computer Science,Moderate,Yes,No,On-Campus
+2069,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+2072,Male,Law,Moderate,No,Yes,Off-Campus
+2073,Female,Others,High,No,No,On-Campus
+2074,Male,Computer Science,Moderate,Yes,No,Off-Campus
+2075,Female,Others,Moderate,No,No,Off-Campus
+2077,Male,Law,High,No,No,On-Campus
+2081,Female,Engineering,Low,No,No,Off-Campus
+2082,Female,Others,Moderate,No,Yes,On-Campus
+2083,Male,Business,High,No,No,Off-Campus
+2085,Female,Law,Low,No,Yes,Off-Campus
+2086,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+2093,Female,Computer Science,Moderate,No,No,On-Campus
+2094,Female,Computer Science,Moderate,No,No,On-Campus
+2095,Male,Engineering,High,Yes,No,On-Campus
+2096,Female,Computer Science,Moderate,No,Yes,Off-Campus
+2098,Female,Business,Moderate,No,No,Off-Campus
+2099,Female,Business,High,No,No,Off-Campus
+2100,Male,Law,High,Yes,No,Off-Campus
+2102,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+2103,Male,Engineering,Moderate,No,No,On-Campus
+2104,Male,Others,High,Yes,No,Off-Campus
+2111,Female,Business,Low,No,No,On-Campus
+2114,Male,Business,Low,Yes,No,On-Campus
+2118,Male,Computer Science,Moderate,No,No,Off-Campus
+2119,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+2121,Male,Business,Low,Yes,No,On-Campus
+2124,Male,Computer Science,Low,Yes,No,Off-Campus
+2131,Female,Law,High,No,No,On-Campus
+2133,Female,Others,High,Yes,Yes,On-Campus
+2135,Male,Computer Science,Low,No,Yes,Off-Campus
+2136,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+2139,Male,Business,High,No,No,Off-Campus
+2141,Female,Business,Moderate,No,No,Off-Campus
+2143,Male,Computer Science,Moderate,No,No,On-Campus
+2145,Male,Engineering,Moderate,No,No,On-Campus
+2146,Female,Engineering,Moderate,No,No,Off-Campus
+2152,Male,Computer Science,High,Yes,Yes,Off-Campus
+2154,Male,Business,Moderate,Yes,Yes,On-Campus
+2157,Female,Law,Moderate,No,Yes,On-Campus
+2161,Male,Engineering,High,Yes,No,Off-Campus
+2164,Male,Law,Moderate,Yes,Yes,On-Campus
+2170,Male,Business,Moderate,Yes,No,On-Campus
+2172,Female,Law,Low,Yes,Yes,Off-Campus
+2186,Female,Others,Moderate,No,No,Off-Campus
+2189,Male,Law,Low,No,No,Off-Campus
+2191,Male,Others,Low,No,No,On-Campus
+2194,Male,Computer Science,Moderate,Yes,No,Off-Campus
+2195,Female,Computer Science,High,No,No,On-Campus
+2196,Male,Law,High,No,No,Off-Campus
+2198,Female,Law,Moderate,Yes,No,Off-Campus
+2199,Female,Law,Low,Yes,No,Off-Campus
+2200,Female,Business,High,No,Yes,On-Campus
+2204,Male,Law,Moderate,No,No,On-Campus
+2207,Female,Computer Science,High,No,Yes,On-Campus
+2209,Female,Others,Low,No,No,On-Campus
+2210,Male,Law,Moderate,No,Yes,Off-Campus
+2213,Male,Business,High,Yes,No,Off-Campus
+2215,Male,Business,High,No,No,On-Campus
+2216,Male,Others,High,No,No,On-Campus
+2218,Male,Engineering,High,Yes,Yes,Off-Campus
+2219,Male,Computer Science,High,No,Yes,On-Campus
+2220,Female,Others,High,No,No,On-Campus
+2222,Female,Computer Science,Moderate,No,Yes,On-Campus
+2227,Male,Law,High,No,No,On-Campus
+2228,Female,Computer Science,Moderate,No,No,On-Campus
+2230,Male,Computer Science,Moderate,No,No,Off-Campus
+2231,Male,Law,Moderate,No,No,On-Campus
+2232,Female,Others,Low,No,No,Off-Campus
+2233,Male,Law,Low,Yes,Yes,On-Campus
+2234,Female,Business,Moderate,Yes,No,Off-Campus
+2240,Male,Engineering,High,No,Yes,On-Campus
+2241,Male,Computer Science,Moderate,No,No,On-Campus
+2246,Male,Engineering,Moderate,No,No,On-Campus
+2249,Female,Business,Moderate,No,No,Off-Campus
+2250,Female,Computer Science,Moderate,Yes,No,On-Campus
+2253,Female,Engineering,High,Yes,No,Off-Campus
+2256,Female,Law,Low,No,No,On-Campus
+2259,Male,Others,Low,Yes,No,Off-Campus
+2260,Female,Law,Moderate,Yes,No,Off-Campus
+2262,Female,Others,Moderate,No,No,On-Campus
+2264,Male,Law,Moderate,Yes,No,On-Campus
+2267,Male,Engineering,Low,No,No,Off-Campus
+2270,Male,Engineering,High,No,Yes,Off-Campus
+2271,Male,Engineering,Low,No,Yes,Off-Campus
+2286,Female,Others,High,No,No,Off-Campus
+2287,Female,Law,Moderate,No,No,Off-Campus
+2291,Male,Computer Science,Low,No,No,Off-Campus
+2292,Female,Business,Moderate,Yes,No,On-Campus
+2296,Male,Business,Moderate,No,Yes,Off-Campus
+2297,Female,Computer Science,Low,No,No,On-Campus
+2301,Male,Law,Low,No,Yes,On-Campus
+2303,Male,Law,High,No,No,Off-Campus
+2304,Female,Computer Science,Moderate,No,No,Off-Campus
+2305,Male,Others,High,No,No,On-Campus
+2306,Female,Computer Science,Moderate,No,Yes,On-Campus
+2308,Male,Business,Moderate,No,Yes,Off-Campus
+2314,Female,Law,High,Yes,No,On-Campus
+2315,Female,Business,Moderate,Yes,No,On-Campus
+2322,Male,Computer Science,High,Yes,No,On-Campus
+2323,Male,Computer Science,High,Yes,Yes,On-Campus
+2326,Male,Computer Science,Moderate,Yes,No,On-Campus
+2329,Male,Others,Moderate,No,No,On-Campus
+2337,Male,Engineering,Moderate,No,No,Off-Campus
+2338,Male,Engineering,Moderate,No,Yes,On-Campus
+2344,Male,Computer Science,Moderate,No,No,On-Campus
+2346,Male,Engineering,Moderate,No,No,Off-Campus
+2347,Female,Engineering,Moderate,Yes,Yes,On-Campus
+2349,Female,Computer Science,Moderate,Yes,No,Off-Campus
+2351,Female,Business,Moderate,No,No,On-Campus
+2352,Female,Law,Moderate,No,No,On-Campus
+2354,Male,Engineering,High,No,No,Off-Campus
+2356,Female,Business,Low,No,No,On-Campus
+2358,Male,Engineering,High,No,No,Off-Campus
+2359,Male,Engineering,High,Yes,Yes,On-Campus
+2364,Male,Law,Moderate,No,Yes,On-Campus
+2366,Female,Business,High,Yes,Yes,Off-Campus
+2368,Male,Others,Moderate,No,No,Off-Campus
+2375,Female,Business,High,No,No,Off-Campus
+2377,Male,Computer Science,High,Yes,No,Off-Campus
+2379,Male,Computer Science,High,Yes,Yes,Off-Campus
+2381,Male,Computer Science,Moderate,Yes,No,On-Campus
+2384,Female,Law,High,No,No,Off-Campus
+2387,Female,Law,High,Yes,Yes,On-Campus
+2388,Male,Computer Science,Moderate,No,No,On-Campus
+2389,Female,Law,Low,Yes,No,Off-Campus
+2394,Male,Law,High,Yes,No,On-Campus
+2398,Female,Law,Moderate,No,No,On-Campus
+2399,Female,Law,Moderate,Yes,Yes,Off-Campus
+2401,Male,Computer Science,Low,Yes,Yes,On-Campus
+2402,Female,Others,Moderate,No,Yes,On-Campus
+2403,Male,Computer Science,Low,No,No,On-Campus
+2405,Female,Law,Moderate,No,No,Off-Campus
+2406,Male,Business,Moderate,Yes,No,On-Campus
+2407,Female,Computer Science,High,No,Yes,On-Campus
+2409,Male,Computer Science,Moderate,No,Yes,On-Campus
+2410,Female,Business,High,No,No,Off-Campus
+2412,Female,Computer Science,Moderate,No,No,Off-Campus
+2417,Female,Law,Low,No,No,On-Campus
+2418,Female,Law,Low,No,No,On-Campus
+2419,Female,Engineering,Low,No,No,Off-Campus
+2420,Male,Computer Science,Moderate,Yes,No,Off-Campus
+2423,Female,Engineering,Low,No,No,On-Campus
+2425,Female,Others,High,No,No,Off-Campus
+2429,Male,Others,High,No,Yes,On-Campus
+2430,Female,Computer Science,Moderate,No,No,On-Campus
+2438,Male,Law,Moderate,No,No,On-Campus
+2439,Male,Others,Moderate,No,No,On-Campus
+2442,Male,Others,Moderate,Yes,No,Off-Campus
+2444,Female,Business,Moderate,Yes,No,On-Campus
+2449,Male,Computer Science,Low,No,No,On-Campus
+2452,Female,Others,Moderate,Yes,No,Off-Campus
+2453,Female,Law,Moderate,No,No,Off-Campus
+2454,Male,Engineering,Moderate,No,No,Off-Campus
+2455,Male,Computer Science,Low,No,Yes,On-Campus
+2457,Female,Business,Low,Yes,No,Off-Campus
+2460,Female,Law,Moderate,Yes,No,On-Campus
+2461,Female,Business,Moderate,No,No,Off-Campus
+2464,Male,Business,Moderate,Yes,No,Off-Campus
+2468,Female,Law,High,No,No,Off-Campus
+2471,Male,Engineering,High,Yes,No,On-Campus
+2480,Male,Computer Science,High,No,No,Off-Campus
+2483,Female,Law,Low,No,Yes,Off-Campus
+2487,Female,Computer Science,Moderate,No,No,On-Campus
+2488,Male,Computer Science,Moderate,Yes,No,On-Campus
+2489,Male,Computer Science,High,Yes,Yes,On-Campus
+2490,Female,Law,Low,No,No,Off-Campus
+2491,Male,Law,Moderate,Yes,Yes,Off-Campus
+2493,Male,Business,Moderate,Yes,Yes,Off-Campus
+2496,Male,Business,High,No,No,On-Campus
+2500,Female,Computer Science,Moderate,No,Yes,Off-Campus
+2501,Female,Law,Moderate,Yes,No,On-Campus
+2502,Female,Others,High,Yes,No,Off-Campus
+2504,Female,Computer Science,High,No,Yes,Off-Campus
+2510,Male,Computer Science,Moderate,No,No,Off-Campus
+2512,Male,Engineering,Moderate,Yes,No,On-Campus
+2513,Male,Others,High,No,Yes,On-Campus
+2515,Female,Computer Science,High,No,No,Off-Campus
+2516,Female,Law,Low,No,Yes,Off-Campus
+2519,Male,Others,Moderate,Yes,Yes,On-Campus
+2527,Female,Others,High,Yes,Yes,On-Campus
+2528,Female,Business,Moderate,Yes,No,On-Campus
+2533,Female,Engineering,Moderate,No,No,On-Campus
+2534,Female,Engineering,High,Yes,Yes,Off-Campus
+2543,Female,Others,Moderate,No,No,Off-Campus
+2547,Female,Computer Science,Moderate,Yes,No,Off-Campus
+2548,Female,Business,Moderate,Yes,Yes,Off-Campus
+2549,Male,Law,Moderate,No,No,Off-Campus
+2551,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+2552,Male,Engineering,Moderate,Yes,No,Off-Campus
+2553,Male,Computer Science,Moderate,No,No,Off-Campus
+2555,Female,Law,High,No,No,Off-Campus
+2556,Male,Computer Science,Moderate,No,Yes,Off-Campus
+2560,Male,Computer Science,High,No,Yes,On-Campus
+2561,Male,Computer Science,Moderate,No,Yes,Off-Campus
+2567,Male,Law,Low,No,Yes,Off-Campus
+2569,Female,Law,High,Yes,No,Off-Campus
+2570,Female,Computer Science,Moderate,No,Yes,On-Campus
+2571,Male,Law,Moderate,No,No,On-Campus
+2572,Female,Law,Low,No,No,On-Campus
+2575,Female,Others,Moderate,Yes,No,Off-Campus
+2576,Male,Others,High,No,No,Off-Campus
+2581,Male,Engineering,Moderate,Yes,No,On-Campus
+2583,Male,Engineering,Low,No,Yes,Off-Campus
+2585,Male,Computer Science,Low,Yes,No,On-Campus
+2586,Male,Computer Science,Low,No,Yes,Off-Campus
+2589,Male,Law,Low,No,No,On-Campus
+2590,Female,Engineering,Moderate,Yes,Yes,On-Campus
+2592,Male,Others,High,Yes,No,Off-Campus
+2593,Female,Law,Low,No,No,Off-Campus
+2594,Male,Computer Science,Moderate,Yes,No,On-Campus
+2595,Female,Engineering,Low,No,Yes,On-Campus
+2597,Female,Engineering,Moderate,No,No,On-Campus
+2601,Male,Computer Science,High,No,No,Off-Campus
+2605,Male,Engineering,High,No,Yes,Off-Campus
+2606,Male,Engineering,Moderate,No,Yes,On-Campus
+2612,Female,Law,Moderate,Yes,No,Off-Campus
+2613,Male,Engineering,Low,No,Yes,On-Campus
+2616,Male,Law,High,No,No,On-Campus
+2619,Female,Engineering,High,No,No,Off-Campus
+2621,Female,Engineering,Low,No,Yes,Off-Campus
+2623,Male,Business,Moderate,No,No,On-Campus
+2625,Female,Business,High,No,No,On-Campus
+2630,Male,Engineering,Moderate,Yes,No,Off-Campus
+2633,Female,Business,Moderate,No,No,Off-Campus
+2636,Male,Business,Moderate,No,No,Off-Campus
+2638,Female,Computer Science,High,No,No,Off-Campus
+2640,Male,Business,Moderate,No,No,Off-Campus
+2642,Female,Engineering,Low,No,No,On-Campus
+2643,Male,Law,High,Yes,No,Off-Campus
+2644,Female,Engineering,Moderate,No,No,Off-Campus
+2646,Female,Law,Moderate,No,No,Off-Campus
+2650,Female,Business,Moderate,No,Yes,Off-Campus
+2651,Male,Computer Science,High,No,No,On-Campus
+2655,Female,Engineering,Moderate,Yes,No,Off-Campus
+2657,Male,Law,Moderate,Yes,No,Off-Campus
+2662,Male,Computer Science,Low,No,No,Off-Campus
+2665,Female,Law,High,Yes,Yes,On-Campus
+2668,Female,Others,Moderate,No,No,Off-Campus
+2670,Female,Computer Science,Moderate,No,No,On-Campus
+2672,Male,Computer Science,Moderate,Yes,No,On-Campus
+2675,Male,Computer Science,Low,No,No,Off-Campus
+2678,Female,Others,Moderate,Yes,No,Off-Campus
+2679,Male,Computer Science,High,No,No,On-Campus
+2680,Male,Law,Moderate,No,No,Off-Campus
+2683,Male,Engineering,High,No,No,Off-Campus
+2684,Male,Law,High,No,No,Off-Campus
+2685,Male,Computer Science,High,Yes,No,On-Campus
+2687,Female,Engineering,Moderate,No,No,On-Campus
+2688,Female,Computer Science,Low,Yes,Yes,On-Campus
+2691,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+2694,Female,Law,Low,No,No,On-Campus
+2695,Male,Engineering,Moderate,No,No,On-Campus
+2699,Female,Computer Science,Moderate,Yes,No,Off-Campus
+2701,Male,Computer Science,Moderate,No,No,Off-Campus
+2706,Male,Engineering,Moderate,No,No,Off-Campus
+2707,Female,Business,Low,No,No,On-Campus
+2708,Female,Computer Science,High,Yes,No,On-Campus
+2709,Male,Law,High,No,No,On-Campus
+2711,Male,Business,Moderate,Yes,Yes,Off-Campus
+2715,Male,Law,Moderate,Yes,Yes,Off-Campus
+2717,Female,Law,Moderate,No,Yes,On-Campus
+2719,Male,Law,High,Yes,No,Off-Campus
+2720,Male,Law,Low,Yes,No,Off-Campus
+2723,Female,Engineering,Low,Yes,Yes,On-Campus
+2729,Male,Law,High,No,Yes,On-Campus
+2730,Male,Law,High,Yes,Yes,On-Campus
+2734,Male,Computer Science,Moderate,No,No,On-Campus
+2735,Female,Engineering,High,No,No,Off-Campus
+2736,Male,Computer Science,Moderate,No,Yes,Off-Campus
+2737,Male,Computer Science,High,Yes,No,Off-Campus
+2739,Male,Computer Science,Moderate,No,No,Off-Campus
+2740,Male,Computer Science,Moderate,Yes,No,On-Campus
+2742,Female,Law,Low,No,No,Off-Campus
+2743,Male,Others,Moderate,Yes,No,On-Campus
+2744,Female,Computer Science,High,No,No,Off-Campus
+2745,Female,Engineering,High,No,Yes,Off-Campus
+2746,Male,Others,High,Yes,No,Off-Campus
+2747,Female,Computer Science,Moderate,Yes,No,Off-Campus
+2754,Female,Business,High,No,No,On-Campus
+2755,Male,Computer Science,High,Yes,Yes,On-Campus
+2757,Male,Engineering,High,Yes,No,On-Campus
+2763,Male,Law,Moderate,No,Yes,On-Campus
+2764,Female,Business,Low,Yes,No,Off-Campus
+2766,Female,Business,Low,No,No,Off-Campus
+2767,Male,Engineering,Moderate,No,No,Off-Campus
+2773,Female,Business,High,No,No,On-Campus
+2779,Female,Business,Moderate,No,No,On-Campus
+2781,Male,Engineering,Moderate,Yes,Yes,On-Campus
+2782,Male,Others,Moderate,No,Yes,Off-Campus
+2784,Male,Law,Moderate,No,Yes,Off-Campus
+2785,Female,Others,Moderate,Yes,No,Off-Campus
+2786,Male,Law,Moderate,Yes,No,On-Campus
+2793,Male,Others,Moderate,No,No,Off-Campus
+2794,Male,Computer Science,Low,No,No,On-Campus
+2796,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+2797,Male,Others,High,No,No,Off-Campus
+2800,Female,Engineering,Moderate,No,No,On-Campus
+2801,Male,Law,Moderate,No,No,On-Campus
+2802,Female,Engineering,Moderate,No,No,On-Campus
+2804,Female,Law,High,No,No,On-Campus
+2807,Male,Others,High,No,Yes,Off-Campus
+2810,Male,Business,Low,Yes,No,On-Campus
+2811,Female,Others,High,Yes,No,Off-Campus
+2812,Female,Law,Low,Yes,No,On-Campus
+2813,Male,Law,High,Yes,No,Off-Campus
+2814,Male,Law,Moderate,Yes,No,Off-Campus
+2817,Female,Computer Science,High,No,Yes,Off-Campus
+2818,Male,Engineering,Moderate,Yes,No,Off-Campus
+2820,Male,Business,Moderate,No,No,On-Campus
+2825,Male,Computer Science,Moderate,Yes,No,On-Campus
+2827,Male,Law,High,No,No,On-Campus
+2828,Female,Computer Science,Moderate,No,No,On-Campus
+2830,Female,Law,Low,Yes,No,Off-Campus
+2831,Female,Computer Science,High,Yes,No,Off-Campus
+2834,Female,Law,High,Yes,No,On-Campus
+2835,Male,Engineering,High,Yes,No,On-Campus
+2839,Male,Business,High,No,No,Off-Campus
+2840,Male,Business,High,Yes,Yes,On-Campus
+2841,Male,Computer Science,High,No,Yes,On-Campus
+2842,Male,Engineering,Moderate,No,Yes,On-Campus
+2843,Male,Others,High,No,No,On-Campus
+2844,Female,Others,Moderate,Yes,Yes,On-Campus
+2849,Male,Law,Moderate,No,No,Off-Campus
+2850,Male,Computer Science,Moderate,No,No,On-Campus
+2855,Female,Law,High,No,No,On-Campus
+2856,Female,Business,High,No,Yes,Off-Campus
+2858,Female,Law,High,No,No,On-Campus
+2859,Female,Computer Science,Moderate,No,No,Off-Campus
+2860,Female,Law,Low,No,Yes,On-Campus
+2863,Female,Computer Science,Low,No,No,Off-Campus
+2869,Male,Law,High,No,No,Off-Campus
+2870,Female,Law,Moderate,Yes,No,On-Campus
+2873,Female,Engineering,High,Yes,No,On-Campus
+2874,Female,Law,High,Yes,No,Off-Campus
+2875,Male,Computer Science,Low,No,No,Off-Campus
+2876,Male,Others,Low,No,No,Off-Campus
+2877,Male,Engineering,High,No,Yes,On-Campus
+2881,Female,Business,High,Yes,Yes,Off-Campus
+2884,Male,Computer Science,High,No,Yes,On-Campus
+2885,Male,Engineering,Moderate,No,No,Off-Campus
+2888,Female,Others,Low,No,No,On-Campus
+2889,Male,Law,Moderate,Yes,No,Off-Campus
+2890,Female,Law,High,Yes,No,Off-Campus
+2891,Male,Engineering,Low,No,No,On-Campus
+2892,Male,Engineering,Moderate,Yes,No,On-Campus
+2893,Female,Computer Science,High,Yes,No,Off-Campus
+2896,Female,Law,Moderate,No,No,On-Campus
+2898,Female,Others,Moderate,No,No,On-Campus
+2900,Male,Engineering,Low,No,No,Off-Campus
+2902,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+2903,Female,Business,Moderate,No,Yes,On-Campus
+2905,Female,Computer Science,Moderate,No,No,Off-Campus
+2908,Female,Engineering,High,No,No,Off-Campus
+2909,Female,Computer Science,Moderate,No,No,Off-Campus
+2911,Female,Computer Science,High,No,Yes,Off-Campus
+2913,Female,Computer Science,Moderate,No,No,Off-Campus
+2914,Male,Law,Moderate,Yes,No,On-Campus
+2916,Female,Law,Low,Yes,Yes,On-Campus
+2918,Male,Engineering,Moderate,No,Yes,Off-Campus
+2922,Female,Others,Moderate,Yes,Yes,Off-Campus
+2926,Male,Others,Moderate,Yes,Yes,On-Campus
+2927,Female,Others,High,Yes,Yes,Off-Campus
+2929,Female,Law,Low,Yes,Yes,On-Campus
+2931,Male,Law,High,No,No,On-Campus
+2932,Female,Others,Low,No,Yes,On-Campus
+2933,Female,Law,Moderate,Yes,Yes,On-Campus
+2934,Male,Others,Low,No,No,Off-Campus
+2935,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+2936,Male,Engineering,Moderate,Yes,Yes,On-Campus
+2939,Female,Others,Moderate,No,Yes,Off-Campus
+2940,Male,Engineering,Moderate,No,Yes,On-Campus
+2945,Male,Others,High,No,Yes,On-Campus
+2948,Female,Law,High,No,Yes,On-Campus
+2949,Female,Computer Science,Moderate,No,Yes,Off-Campus
+2952,Female,Computer Science,Low,No,No,On-Campus
+2956,Female,Others,Moderate,No,No,On-Campus
+2959,Female,Law,High,No,No,On-Campus
+2960,Male,Engineering,High,Yes,No,Off-Campus
+2962,Male,Law,High,Yes,No,Off-Campus
+2963,Female,Others,High,Yes,No,Off-Campus
+2964,Male,Business,High,Yes,Yes,On-Campus
+2965,Male,Others,Low,Yes,No,On-Campus
+2967,Female,Engineering,Moderate,No,No,On-Campus
+2970,Female,Others,High,Yes,Yes,On-Campus
+2972,Male,Law,Moderate,Yes,Yes,Off-Campus
+2973,Male,Engineering,High,No,No,On-Campus
+2979,Male,Business,Moderate,Yes,No,Off-Campus
+2983,Male,Business,High,No,Yes,On-Campus
+2987,Female,Business,Low,Yes,Yes,On-Campus
+2988,Female,Engineering,Moderate,Yes,No,On-Campus
+2993,Male,Law,Moderate,No,Yes,Off-Campus
+2998,Male,Others,Moderate,Yes,Yes,On-Campus
+2999,Female,Law,High,No,No,Off-Campus
+3000,Male,Law,Moderate,No,No,On-Campus
+3004,Female,Computer Science,Moderate,No,No,Off-Campus
+3007,Male,Law,High,No,No,Off-Campus
+3010,Male,Law,Moderate,No,No,On-Campus
+3012,Female,Engineering,Low,No,No,Off-Campus
+3015,Male,Business,Moderate,Yes,No,Off-Campus
+3018,Female,Others,Moderate,Yes,No,On-Campus
+3024,Male,Law,High,No,No,Off-Campus
+3025,Male,Law,High,No,No,Off-Campus
+3028,Male,Law,High,Yes,No,Off-Campus
+3032,Female,Law,High,Yes,Yes,On-Campus
+3033,Female,Engineering,High,No,Yes,Off-Campus
+3034,Female,Others,Moderate,No,No,Off-Campus
+3038,Male,Computer Science,Low,Yes,Yes,On-Campus
+3040,Female,Computer Science,High,No,Yes,On-Campus
+3041,Female,Law,High,Yes,No,On-Campus
+3042,Female,Computer Science,Moderate,No,No,On-Campus
+3046,Female,Computer Science,Moderate,No,No,On-Campus
+3048,Male,Engineering,Moderate,Yes,No,Off-Campus
+3049,Female,Business,High,No,No,On-Campus
+3052,Female,Law,Moderate,Yes,No,On-Campus
+3053,Female,Business,Moderate,Yes,No,On-Campus
+3056,Male,Law,High,No,Yes,On-Campus
+3057,Female,Computer Science,Low,Yes,No,Off-Campus
+3060,Female,Law,Moderate,Yes,No,On-Campus
+3061,Male,Business,High,Yes,No,On-Campus
+3062,Female,Business,Moderate,No,Yes,Off-Campus
+3063,Male,Others,Moderate,No,Yes,Off-Campus
+3066,Female,Law,Moderate,No,No,On-Campus
+3067,Female,Law,Low,Yes,No,On-Campus
+3074,Male,Others,Moderate,No,No,On-Campus
+3078,Female,Engineering,High,No,No,On-Campus
+3079,Female,Law,High,Yes,No,On-Campus
+3084,Male,Computer Science,Moderate,No,No,On-Campus
+3087,Female,Computer Science,High,No,Yes,Off-Campus
+3088,Male,Engineering,High,No,No,On-Campus
+3091,Female,Engineering,Low,No,No,Off-Campus
+3092,Female,Law,Moderate,Yes,No,Off-Campus
+3093,Female,Law,Moderate,Yes,No,Off-Campus
+3095,Female,Law,High,No,No,Off-Campus
+3096,Male,Computer Science,Moderate,Yes,No,On-Campus
+3098,Male,Law,Moderate,Yes,Yes,On-Campus
+3099,Male,Computer Science,Low,Yes,No,On-Campus
+3103,Male,Computer Science,High,Yes,No,On-Campus
+3104,Male,Business,Moderate,No,No,Off-Campus
+3106,Female,Others,High,Yes,No,Off-Campus
+3107,Female,Engineering,Low,Yes,No,On-Campus
+3113,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+3122,Female,Business,Moderate,Yes,No,Off-Campus
+3123,Male,Engineering,Low,Yes,No,On-Campus
+3124,Male,Computer Science,Low,No,No,Off-Campus
+3127,Female,Engineering,Low,No,No,Off-Campus
+3132,Male,Law,High,Yes,Yes,On-Campus
+3133,Female,Others,Moderate,Yes,No,On-Campus
+3135,Female,Engineering,Moderate,No,No,Off-Campus
+3137,Male,Others,High,No,Yes,Off-Campus
+3139,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+3141,Male,Engineering,High,Yes,No,On-Campus
+3145,Female,Computer Science,Low,Yes,Yes,Off-Campus
+3146,Male,Others,Low,Yes,Yes,On-Campus
+3149,Female,Others,High,No,No,Off-Campus
+3153,Female,Business,Moderate,No,No,Off-Campus
+3155,Male,Others,Moderate,Yes,Yes,Off-Campus
+3157,Male,Others,Moderate,No,Yes,Off-Campus
+3158,Male,Engineering,Moderate,No,No,Off-Campus
+3159,Male,Law,Moderate,No,No,On-Campus
+3160,Female,Engineering,Moderate,Yes,No,Off-Campus
+3161,Male,Business,High,No,No,On-Campus
+3163,Male,Law,High,Yes,No,On-Campus
+3164,Female,Law,High,Yes,Yes,On-Campus
+3165,Male,Engineering,High,Yes,No,On-Campus
+3167,Female,Computer Science,High,No,No,Off-Campus
+3169,Female,Business,Low,No,Yes,Off-Campus
+3171,Male,Computer Science,Moderate,Yes,No,Off-Campus
+3175,Female,Law,High,Yes,Yes,On-Campus
+3181,Male,Business,Moderate,No,Yes,On-Campus
+3185,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+3186,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+3189,Male,Business,Low,No,No,Off-Campus
+3190,Female,Computer Science,High,Yes,Yes,Off-Campus
+3192,Male,Engineering,Low,No,No,Off-Campus
+3196,Male,Computer Science,Moderate,No,Yes,On-Campus
+3197,Male,Law,Moderate,No,No,On-Campus
+3198,Male,Computer Science,Moderate,Yes,No,On-Campus
+3200,Female,Law,High,No,No,Off-Campus
+3203,Male,Business,Moderate,Yes,No,Off-Campus
+3205,Male,Others,High,No,Yes,Off-Campus
+3209,Female,Engineering,High,No,No,On-Campus
+3210,Female,Computer Science,Moderate,Yes,No,Off-Campus
+3212,Male,Law,High,No,No,Off-Campus
+3214,Male,Law,High,Yes,Yes,Off-Campus
+3215,Female,Engineering,Moderate,No,No,Off-Campus
+3216,Male,Law,Moderate,No,No,Off-Campus
+3217,Female,Engineering,High,No,No,Off-Campus
+3221,Male,Engineering,Moderate,Yes,No,On-Campus
+3222,Female,Business,Moderate,Yes,No,Off-Campus
+3223,Female,Engineering,Moderate,No,No,Off-Campus
+3225,Female,Engineering,Moderate,Yes,No,Off-Campus
+3226,Female,Engineering,Moderate,No,No,Off-Campus
+3227,Female,Law,Moderate,Yes,No,Off-Campus
+3228,Female,Computer Science,Low,No,No,Off-Campus
+3229,Female,Engineering,Moderate,Yes,No,On-Campus
+3230,Female,Others,High,Yes,No,On-Campus
+3232,Male,Engineering,High,No,No,On-Campus
+3235,Female,Law,High,Yes,No,On-Campus
+3238,Female,Computer Science,Low,Yes,Yes,Off-Campus
+3239,Female,Others,Low,No,No,On-Campus
+3240,Male,Engineering,Low,No,No,On-Campus
+3245,Male,Business,Moderate,No,No,On-Campus
+3246,Female,Computer Science,Moderate,No,No,Off-Campus
+3248,Female,Law,Low,Yes,No,On-Campus
+3252,Male,Others,Moderate,No,Yes,Off-Campus
+3253,Male,Others,High,No,No,Off-Campus
+3254,Male,Law,Moderate,No,No,On-Campus
+3255,Female,Engineering,High,No,No,Off-Campus
+3256,Female,Engineering,Low,Yes,Yes,On-Campus
+3257,Male,Business,Moderate,No,No,On-Campus
+3260,Female,Law,Moderate,No,No,Off-Campus
+3262,Male,Business,High,Yes,No,On-Campus
+3263,Male,Others,Moderate,Yes,No,On-Campus
+3266,Male,Business,Moderate,No,No,On-Campus
+3267,Female,Business,Moderate,No,Yes,Off-Campus
+3268,Male,Engineering,Low,Yes,No,On-Campus
+3270,Male,Others,High,No,No,Off-Campus
+3273,Male,Business,High,No,Yes,Off-Campus
+3274,Female,Law,Moderate,No,No,Off-Campus
+3275,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+3279,Female,Engineering,High,No,Yes,Off-Campus
+3280,Female,Others,Low,No,No,Off-Campus
+3284,Female,Computer Science,Moderate,No,No,Off-Campus
+3289,Female,Others,Moderate,Yes,No,On-Campus
+3290,Male,Business,Moderate,No,No,Off-Campus
+3294,Male,Law,Moderate,No,Yes,Off-Campus
+3297,Male,Computer Science,Low,Yes,No,Off-Campus
+3307,Female,Others,High,Yes,No,On-Campus
+3309,Female,Law,High,No,No,On-Campus
+3312,Male,Business,Moderate,Yes,No,On-Campus
+3313,Male,Engineering,Moderate,Yes,No,On-Campus
+3317,Male,Computer Science,Moderate,Yes,No,On-Campus
+3321,Female,Others,Moderate,No,No,Off-Campus
+3325,Male,Business,Low,No,Yes,Off-Campus
+3327,Female,Business,Moderate,Yes,No,On-Campus
+3333,Male,Law,Moderate,No,No,On-Campus
+3335,Male,Law,Low,No,Yes,Off-Campus
+3336,Male,Business,Moderate,Yes,No,On-Campus
+3339,Male,Computer Science,Moderate,No,Yes,Off-Campus
+3343,Male,Others,High,No,Yes,On-Campus
+3344,Female,Business,Low,No,Yes,On-Campus
+3347,Female,Law,High,No,No,Off-Campus
+3348,Male,Engineering,High,No,No,On-Campus
+3349,Male,Engineering,High,Yes,No,On-Campus
+3350,Female,Computer Science,Low,No,No,Off-Campus
+3351,Female,Business,High,Yes,Yes,Off-Campus
+3352,Male,Computer Science,Moderate,Yes,No,Off-Campus
+3355,Female,Engineering,Low,No,Yes,Off-Campus
+3358,Female,Business,Low,No,No,Off-Campus
+3361,Male,Law,Moderate,No,Yes,Off-Campus
+3369,Female,Others,Moderate,Yes,Yes,Off-Campus
+3371,Male,Engineering,High,Yes,Yes,Off-Campus
+3373,Female,Engineering,Low,No,No,Off-Campus
+3378,Male,Business,Moderate,No,No,On-Campus
+3382,Male,Law,Moderate,No,No,Off-Campus
+3385,Female,Others,Low,No,No,Off-Campus
+3391,Female,Law,High,No,Yes,Off-Campus
+3393,Male,Computer Science,Moderate,Yes,No,On-Campus
+3394,Female,Computer Science,High,Yes,No,Off-Campus
+3397,Male,Computer Science,High,No,No,On-Campus
+3398,Female,Others,Moderate,Yes,Yes,On-Campus
+3400,Male,Engineering,Low,No,No,On-Campus
+3403,Male,Law,Moderate,No,No,On-Campus
+3405,Female,Engineering,Moderate,Yes,No,On-Campus
+3410,Female,Business,Moderate,Yes,Yes,On-Campus
+3414,Male,Engineering,High,No,No,On-Campus
+3416,Male,Engineering,High,No,No,On-Campus
+3421,Male,Business,Moderate,No,No,Off-Campus
+3426,Male,Computer Science,Moderate,No,No,On-Campus
+3428,Female,Engineering,High,Yes,No,Off-Campus
+3430,Male,Engineering,Moderate,No,No,Off-Campus
+3431,Male,Computer Science,Moderate,No,Yes,Off-Campus
+3433,Male,Computer Science,Moderate,No,No,On-Campus
+3434,Female,Business,Moderate,No,Yes,Off-Campus
+3436,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+3437,Female,Law,High,No,Yes,On-Campus
+3438,Male,Law,Moderate,Yes,Yes,Off-Campus
+3439,Male,Business,Moderate,No,Yes,On-Campus
+3440,Male,Engineering,High,No,No,Off-Campus
+3441,Male,Computer Science,High,Yes,No,On-Campus
+3442,Female,Computer Science,Low,No,No,On-Campus
+3449,Female,Business,High,No,No,Off-Campus
+3452,Female,Computer Science,High,No,No,Off-Campus
+3453,Male,Law,High,Yes,Yes,Off-Campus
+3456,Female,Others,High,Yes,Yes,On-Campus
+3459,Male,Engineering,High,No,No,Off-Campus
+3464,Male,Law,High,Yes,Yes,Off-Campus
+3468,Male,Law,High,No,No,On-Campus
+3472,Female,Engineering,Moderate,No,No,Off-Campus
+3473,Female,Business,High,No,No,Off-Campus
+3474,Female,Computer Science,Moderate,Yes,No,On-Campus
+3477,Male,Law,Low,No,No,Off-Campus
+3479,Male,Others,Moderate,No,Yes,Off-Campus
+3481,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+3482,Female,Business,Moderate,Yes,Yes,On-Campus
+3483,Female,Computer Science,High,No,Yes,Off-Campus
+3486,Male,Law,Moderate,No,No,On-Campus
+3489,Male,Business,High,No,No,On-Campus
+3491,Female,Computer Science,Moderate,No,No,On-Campus
+3493,Female,Law,High,No,Yes,On-Campus
+3494,Male,Law,Moderate,No,No,On-Campus
+3495,Female,Law,Low,No,Yes,Off-Campus
+3496,Female,Law,Moderate,Yes,No,Off-Campus
+3497,Female,Business,Moderate,No,No,Off-Campus
+3500,Male,Law,Moderate,No,No,On-Campus
+3501,Male,Computer Science,Low,Yes,No,Off-Campus
+3502,Male,Computer Science,Moderate,No,Yes,On-Campus
+3503,Female,Others,Moderate,Yes,No,Off-Campus
+3504,Male,Computer Science,Low,Yes,No,On-Campus
+3510,Male,Others,Low,Yes,No,Off-Campus
+3511,Male,Computer Science,High,No,No,On-Campus
+3514,Male,Engineering,Moderate,No,No,On-Campus
+3515,Female,Engineering,Moderate,No,No,On-Campus
+3516,Male,Law,Moderate,No,No,On-Campus
+3518,Male,Others,Moderate,Yes,No,On-Campus
+3521,Female,Computer Science,Moderate,No,No,On-Campus
+3522,Male,Engineering,Moderate,No,No,On-Campus
+3524,Male,Business,Low,No,No,On-Campus
+3527,Male,Business,Moderate,No,No,On-Campus
+3529,Male,Engineering,Moderate,No,No,Off-Campus
+3531,Male,Law,Low,Yes,Yes,Off-Campus
+3532,Male,Business,Moderate,Yes,Yes,Off-Campus
+3536,Female,Others,Low,No,Yes,On-Campus
+3540,Female,Business,Moderate,No,No,On-Campus
+3547,Male,Computer Science,Moderate,No,No,On-Campus
+3549,Female,Business,Moderate,No,Yes,On-Campus
+3550,Male,Computer Science,High,No,No,On-Campus
+3554,Female,Law,Moderate,Yes,Yes,On-Campus
+3555,Male,Engineering,Moderate,No,Yes,On-Campus
+3557,Male,Law,Moderate,No,No,On-Campus
+3564,Male,Computer Science,Low,No,No,Off-Campus
+3566,Female,Law,Low,No,No,Off-Campus
+3567,Male,Law,High,No,No,On-Campus
+3568,Male,Engineering,Moderate,No,No,On-Campus
+3569,Female,Computer Science,High,No,No,On-Campus
+3571,Male,Others,Low,No,Yes,Off-Campus
+3572,Female,Business,Moderate,Yes,No,On-Campus
+3573,Male,Computer Science,Moderate,No,No,Off-Campus
+3574,Female,Engineering,Moderate,No,No,On-Campus
+3575,Male,Computer Science,Low,No,Yes,On-Campus
+3578,Male,Law,Moderate,Yes,Yes,Off-Campus
+3580,Female,Law,Moderate,Yes,No,Off-Campus
+3585,Male,Computer Science,Moderate,Yes,No,Off-Campus
+3587,Female,Computer Science,Low,No,No,On-Campus
+3589,Female,Law,High,Yes,No,Off-Campus
+3590,Female,Law,Moderate,No,No,On-Campus
+3591,Male,Business,Moderate,Yes,Yes,On-Campus
+3593,Male,Computer Science,High,Yes,No,On-Campus
+3597,Female,Engineering,High,Yes,No,Off-Campus
+3598,Female,Computer Science,High,Yes,No,On-Campus
+3599,Male,Others,High,Yes,No,On-Campus
+3604,Male,Law,Moderate,Yes,No,Off-Campus
+3605,Female,Computer Science,Moderate,Yes,No,Off-Campus
+3606,Male,Engineering,High,No,No,On-Campus
+3607,Female,Business,Moderate,Yes,No,Off-Campus
+3608,Female,Law,Moderate,Yes,No,On-Campus
+3616,Male,Engineering,Low,No,Yes,On-Campus
+3617,Male,Business,High,Yes,No,On-Campus
+3621,Male,Others,Low,Yes,No,On-Campus
+3622,Female,Engineering,High,No,Yes,Off-Campus
+3624,Female,Engineering,Low,Yes,No,Off-Campus
+3630,Female,Law,Moderate,No,No,Off-Campus
+3632,Male,Computer Science,High,Yes,No,Off-Campus
+3634,Female,Engineering,Moderate,No,Yes,On-Campus
+3635,Male,Engineering,Moderate,Yes,No,Off-Campus
+3638,Male,Law,High,Yes,Yes,Off-Campus
+3639,Female,Computer Science,High,Yes,No,Off-Campus
+3644,Male,Others,Low,No,No,On-Campus
+3649,Female,Computer Science,High,No,No,Off-Campus
+3650,Male,Law,Low,No,Yes,On-Campus
+3652,Female,Law,Moderate,No,No,Off-Campus
+3653,Female,Others,Moderate,No,No,Off-Campus
+3656,Male,Engineering,Low,No,Yes,On-Campus
+3657,Female,Law,Moderate,No,No,Off-Campus
+3664,Female,Others,High,No,No,Off-Campus
+3668,Male,Computer Science,High,No,Yes,On-Campus
+3669,Male,Engineering,High,Yes,Yes,On-Campus
+3670,Female,Computer Science,Low,Yes,Yes,On-Campus
+3673,Male,Engineering,Moderate,Yes,No,On-Campus
+3675,Male,Computer Science,High,Yes,Yes,Off-Campus
+3677,Female,Others,Moderate,No,No,Off-Campus
+3678,Male,Law,Low,Yes,No,On-Campus
+3681,Female,Others,Low,Yes,No,On-Campus
+3684,Female,Law,Low,No,No,On-Campus
+3685,Female,Business,Moderate,Yes,No,Off-Campus
+3686,Male,Business,Moderate,No,No,Off-Campus
+3689,Female,Others,Low,No,Yes,Off-Campus
+3691,Female,Engineering,High,Yes,No,Off-Campus
+3699,Male,Law,Low,No,No,On-Campus
+3708,Female,Law,Moderate,No,No,Off-Campus
+3709,Male,Engineering,Low,No,Yes,Off-Campus
+3710,Female,Business,Low,Yes,Yes,Off-Campus
+3714,Male,Law,Moderate,No,Yes,On-Campus
+3716,Male,Others,Moderate,Yes,No,Off-Campus
+3719,Female,Engineering,High,Yes,No,Off-Campus
+3723,Female,Engineering,Low,No,Yes,Off-Campus
+3726,Female,Business,Moderate,No,Yes,On-Campus
+3728,Male,Engineering,High,No,No,Off-Campus
+3731,Female,Business,Moderate,Yes,No,Off-Campus
+3735,Male,Computer Science,Moderate,Yes,No,Off-Campus
+3736,Female,Law,High,No,No,On-Campus
+3737,Female,Computer Science,Moderate,No,Yes,On-Campus
+3741,Female,Engineering,Moderate,No,No,On-Campus
+3742,Female,Engineering,High,No,Yes,Off-Campus
+3745,Female,Computer Science,High,Yes,No,Off-Campus
+3747,Female,Others,Low,No,No,On-Campus
+3748,Female,Law,High,Yes,No,On-Campus
+3749,Male,Others,Moderate,Yes,No,On-Campus
+3750,Female,Others,Low,No,Yes,On-Campus
+3753,Male,Engineering,Low,Yes,Yes,Off-Campus
+3756,Male,Law,Moderate,No,No,On-Campus
+3758,Female,Others,Moderate,No,No,On-Campus
+3764,Male,Engineering,Moderate,Yes,No,Off-Campus
+3766,Male,Computer Science,Moderate,No,Yes,Off-Campus
+3769,Female,Law,Moderate,No,No,Off-Campus
+3771,Male,Engineering,High,Yes,No,On-Campus
+3774,Male,Engineering,Moderate,No,Yes,Off-Campus
+3779,Female,Law,Moderate,No,No,On-Campus
+3781,Male,Business,Moderate,No,No,Off-Campus
+3787,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+3788,Female,Law,Moderate,No,No,On-Campus
+3792,Female,Computer Science,Moderate,No,No,On-Campus
+3798,Male,Law,Moderate,Yes,Yes,Off-Campus
+3799,Female,Others,Moderate,No,No,Off-Campus
+3801,Male,Law,High,No,No,Off-Campus
+3802,Male,Law,High,No,No,Off-Campus
+3805,Female,Others,Low,No,No,Off-Campus
+3806,Male,Law,High,No,No,On-Campus
+3808,Male,Engineering,High,No,Yes,Off-Campus
+3817,Male,Computer Science,Low,No,No,On-Campus
+3818,Female,Law,Low,No,No,Off-Campus
+3820,Male,Business,Moderate,No,No,Off-Campus
+3821,Male,Law,High,No,No,On-Campus
+3823,Female,Engineering,Moderate,No,No,On-Campus
+3829,Female,Others,High,No,Yes,Off-Campus
+3831,Female,Others,High,No,Yes,Off-Campus
+3836,Female,Law,High,No,Yes,On-Campus
+3837,Male,Engineering,Moderate,No,No,On-Campus
+3838,Female,Computer Science,High,No,Yes,On-Campus
+3841,Male,Engineering,Low,No,No,Off-Campus
+3844,Female,Engineering,Moderate,No,No,On-Campus
+3849,Female,Law,Moderate,No,Yes,On-Campus
+3853,Male,Law,Low,No,No,Off-Campus
+3854,Male,Computer Science,Moderate,No,Yes,Off-Campus
+3857,Female,Computer Science,Moderate,No,No,On-Campus
+3864,Female,Computer Science,Moderate,Yes,No,On-Campus
+3865,Male,Others,High,No,Yes,Off-Campus
+3866,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+3867,Female,Engineering,High,No,Yes,On-Campus
+3870,Female,Business,Low,Yes,Yes,On-Campus
+3871,Male,Engineering,Moderate,No,No,On-Campus
+3872,Female,Business,Moderate,No,Yes,On-Campus
+3874,Female,Engineering,High,No,No,Off-Campus
+3875,Female,Engineering,Moderate,No,Yes,On-Campus
+3879,Female,Business,Low,No,No,On-Campus
+3889,Female,Business,Moderate,No,Yes,Off-Campus
+3890,Female,Computer Science,Moderate,No,No,Off-Campus
+3895,Female,Business,Moderate,Yes,No,Off-Campus
+3900,Male,Computer Science,Moderate,No,No,On-Campus
+3902,Male,Engineering,High,Yes,No,On-Campus
+3904,Male,Engineering,Moderate,No,No,Off-Campus
+3905,Female,Business,High,No,No,On-Campus
+3906,Female,Engineering,Moderate,No,Yes,On-Campus
+3910,Female,Engineering,Moderate,Yes,Yes,On-Campus
+3911,Male,Computer Science,High,No,No,On-Campus
+3913,Female,Computer Science,Moderate,No,No,On-Campus
+3914,Female,Computer Science,Low,No,No,On-Campus
+3916,Female,Engineering,Moderate,Yes,No,Off-Campus
+3921,Male,Law,Moderate,No,Yes,On-Campus
+3924,Male,Law,Moderate,No,No,Off-Campus
+3925,Male,Computer Science,Low,No,Yes,On-Campus
+3934,Male,Engineering,Moderate,No,Yes,Off-Campus
+3935,Female,Computer Science,Low,No,No,Off-Campus
+3937,Male,Engineering,High,Yes,No,Off-Campus
+3939,Female,Computer Science,Moderate,Yes,No,Off-Campus
+3940,Male,Law,Low,No,No,On-Campus
+3942,Male,Others,High,Yes,No,Off-Campus
+3943,Female,Business,High,Yes,No,On-Campus
+3944,Male,Business,Moderate,No,Yes,On-Campus
+3948,Female,Law,Moderate,No,Yes,On-Campus
+3950,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+3957,Female,Engineering,Low,Yes,No,On-Campus
+3958,Female,Engineering,High,Yes,Yes,Off-Campus
+3962,Female,Engineering,Moderate,Yes,No,Off-Campus
+3963,Female,Law,Moderate,No,No,On-Campus
+3964,Female,Law,High,No,No,Off-Campus
+3966,Male,Engineering,Moderate,No,No,Off-Campus
+3971,Female,Others,Moderate,Yes,No,On-Campus
+3972,Female,Engineering,High,No,No,Off-Campus
+3973,Male,Others,Moderate,No,Yes,Off-Campus
+3977,Male,Engineering,High,No,Yes,On-Campus
+3979,Male,Law,Moderate,No,No,Off-Campus
+3980,Female,Law,High,No,No,On-Campus
+3982,Male,Computer Science,High,No,No,On-Campus
+3983,Male,Business,Moderate,Yes,No,On-Campus
+3986,Male,Computer Science,Moderate,No,No,On-Campus
+3987,Male,Others,Moderate,No,No,Off-Campus
+3988,Male,Law,Moderate,Yes,No,On-Campus
+3989,Male,Law,Low,No,No,Off-Campus
+3992,Female,Business,High,No,No,On-Campus
+3995,Female,Law,Low,No,No,Off-Campus
+3997,Female,Engineering,Low,Yes,No,On-Campus
+3999,Male,Law,Moderate,No,Yes,On-Campus
+4001,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+4006,Male,Business,Moderate,No,Yes,On-Campus
+4012,Male,Business,High,No,No,On-Campus
+4013,Female,Others,Low,Yes,Yes,Off-Campus
+4015,Male,Computer Science,Low,No,No,On-Campus
+4017,Female,Law,High,No,Yes,On-Campus
+4019,Female,Others,Moderate,No,Yes,On-Campus
+4020,Female,Law,Moderate,Yes,No,On-Campus
+4022,Male,Business,Low,No,No,Off-Campus
+4025,Male,Business,Moderate,No,No,On-Campus
+4029,Female,Computer Science,Low,Yes,Yes,On-Campus
+4030,Male,Engineering,Moderate,No,Yes,Off-Campus
+4031,Female,Computer Science,Low,No,No,On-Campus
+4036,Male,Law,Moderate,No,Yes,Off-Campus
+4037,Male,Others,Low,No,No,Off-Campus
+4040,Female,Business,Low,Yes,No,On-Campus
+4042,Male,Law,Low,Yes,No,On-Campus
+4047,Male,Business,High,No,Yes,On-Campus
+4048,Female,Business,Moderate,Yes,No,On-Campus
+4052,Male,Engineering,Moderate,No,Yes,Off-Campus
+4059,Female,Business,Moderate,No,No,On-Campus
+4064,Female,Others,Moderate,Yes,No,Off-Campus
+4070,Female,Engineering,Moderate,No,Yes,Off-Campus
+4071,Male,Business,Moderate,No,Yes,On-Campus
+4078,Male,Computer Science,High,No,Yes,On-Campus
+4079,Male,Business,Moderate,No,No,Off-Campus
+4080,Female,Computer Science,High,Yes,No,Off-Campus
+4083,Female,Engineering,High,No,No,Off-Campus
+4085,Male,Computer Science,High,No,No,On-Campus
+4089,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+4092,Male,Business,Moderate,Yes,No,Off-Campus
+4097,Male,Law,Moderate,No,No,Off-Campus
+4107,Female,Business,Moderate,Yes,No,Off-Campus
+4108,Female,Law,Low,No,Yes,On-Campus
+4109,Male,Engineering,Moderate,No,No,On-Campus
+4111,Male,Computer Science,High,Yes,No,On-Campus
+4113,Male,Computer Science,Moderate,No,No,On-Campus
+4116,Female,Law,Low,Yes,No,On-Campus
+4118,Female,Business,Moderate,No,No,On-Campus
+4121,Female,Law,High,No,No,Off-Campus
+4122,Female,Computer Science,High,No,No,Off-Campus
+4123,Female,Business,High,Yes,No,Off-Campus
+4126,Female,Engineering,Low,No,No,On-Campus
+4131,Male,Law,Low,Yes,No,Off-Campus
+4132,Female,Engineering,Low,Yes,Yes,On-Campus
+4134,Female,Others,Moderate,Yes,No,On-Campus
+4135,Male,Others,Low,No,Yes,Off-Campus
+4141,Male,Law,High,No,No,On-Campus
+4144,Male,Engineering,Moderate,No,No,Off-Campus
+4146,Male,Engineering,Moderate,Yes,No,On-Campus
+4147,Female,Law,High,No,No,On-Campus
+4148,Female,Engineering,Low,No,No,Off-Campus
+4149,Male,Business,Low,No,No,Off-Campus
+4151,Female,Business,Moderate,No,No,On-Campus
+4152,Female,Engineering,High,No,Yes,Off-Campus
+4153,Male,Law,Moderate,Yes,No,On-Campus
+4162,Female,Computer Science,Moderate,No,No,Off-Campus
+4163,Female,Engineering,Low,Yes,No,Off-Campus
+4164,Female,Business,Low,No,No,Off-Campus
+4165,Male,Engineering,High,Yes,No,On-Campus
+4166,Male,Business,Moderate,Yes,No,On-Campus
+4171,Male,Law,High,Yes,No,On-Campus
+4172,Male,Law,Moderate,Yes,Yes,On-Campus
+4173,Male,Computer Science,Low,No,No,On-Campus
+4174,Female,Others,Low,Yes,No,On-Campus
+4176,Male,Others,Moderate,Yes,Yes,On-Campus
+4178,Female,Law,Moderate,Yes,No,Off-Campus
+4180,Female,Computer Science,Moderate,No,Yes,On-Campus
+4184,Female,Business,Moderate,No,No,On-Campus
+4185,Female,Others,High,No,No,On-Campus
+4186,Male,Others,Moderate,Yes,Yes,Off-Campus
+4187,Female,Others,High,No,No,On-Campus
+4191,Female,Computer Science,Moderate,No,No,On-Campus
+4192,Male,Business,High,No,No,On-Campus
+4193,Male,Law,High,No,No,Off-Campus
+4194,Female,Computer Science,High,No,Yes,Off-Campus
+4199,Female,Computer Science,Low,Yes,No,On-Campus
+4203,Male,Business,Moderate,No,Yes,Off-Campus
+4204,Male,Law,Moderate,No,No,On-Campus
+4207,Female,Law,Moderate,No,No,Off-Campus
+4209,Female,Engineering,High,No,Yes,On-Campus
+4213,Male,Engineering,High,No,No,On-Campus
+4214,Male,Business,Moderate,No,No,On-Campus
+4215,Female,Engineering,Moderate,No,Yes,On-Campus
+4217,Female,Computer Science,Moderate,Yes,No,Off-Campus
+4219,Male,Law,Moderate,No,Yes,Off-Campus
+4220,Female,Computer Science,Low,No,No,On-Campus
+4224,Male,Business,Moderate,Yes,No,Off-Campus
+4228,Female,Law,High,No,No,Off-Campus
+4230,Female,Computer Science,Low,No,No,On-Campus
+4232,Male,Others,High,No,No,Off-Campus
+4233,Female,Engineering,High,No,No,On-Campus
+4239,Female,Engineering,Moderate,Yes,Yes,On-Campus
+4245,Male,Business,High,Yes,No,Off-Campus
+4246,Male,Others,High,No,Yes,Off-Campus
+4247,Male,Engineering,Low,No,Yes,Off-Campus
+4248,Male,Business,Low,No,No,On-Campus
+4250,Male,Others,Moderate,Yes,Yes,On-Campus
+4253,Female,Law,High,Yes,No,Off-Campus
+4256,Female,Business,Moderate,Yes,No,On-Campus
+4260,Female,Law,Moderate,No,No,Off-Campus
+4261,Female,Business,High,Yes,No,Off-Campus
+4263,Female,Law,Moderate,Yes,No,Off-Campus
+4264,Female,Others,High,No,No,Off-Campus
+4266,Male,Engineering,Moderate,No,No,On-Campus
+4268,Female,Law,High,No,No,Off-Campus
+4269,Female,Computer Science,High,No,No,Off-Campus
+4271,Female,Others,Moderate,No,No,On-Campus
+4272,Female,Law,High,Yes,Yes,On-Campus
+4274,Female,Computer Science,Moderate,Yes,No,Off-Campus
+4275,Female,Others,Moderate,Yes,No,Off-Campus
+4276,Male,Business,Moderate,Yes,No,On-Campus
+4279,Female,Others,Moderate,Yes,No,Off-Campus
+4281,Female,Engineering,Moderate,No,No,On-Campus
+4283,Male,Business,High,No,Yes,Off-Campus
+4288,Male,Computer Science,High,No,Yes,On-Campus
+4289,Male,Computer Science,Low,No,No,On-Campus
+4290,Male,Law,Moderate,Yes,No,Off-Campus
+4292,Male,Engineering,Moderate,No,No,On-Campus
+4293,Female,Engineering,Low,No,No,On-Campus
+4294,Male,Engineering,High,No,No,On-Campus
+4298,Female,Business,Moderate,No,Yes,Off-Campus
+4299,Female,Computer Science,Low,Yes,No,Off-Campus
+4300,Male,Engineering,Moderate,Yes,No,Off-Campus
+4301,Male,Business,High,No,No,On-Campus
+4303,Male,Business,Low,No,No,Off-Campus
+4307,Male,Law,Moderate,No,Yes,On-Campus
+4312,Male,Law,High,Yes,No,On-Campus
+4315,Male,Business,Low,No,No,Off-Campus
+4322,Male,Law,Low,No,Yes,Off-Campus
+4326,Male,Engineering,Moderate,No,No,On-Campus
+4327,Male,Engineering,Low,Yes,Yes,On-Campus
+4329,Male,Computer Science,High,Yes,No,On-Campus
+4334,Female,Computer Science,Moderate,Yes,No,Off-Campus
+4335,Female,Computer Science,Moderate,No,Yes,Off-Campus
+4337,Male,Law,High,No,No,Off-Campus
+4341,Female,Engineering,High,No,No,Off-Campus
+4343,Male,Others,High,Yes,Yes,On-Campus
+4345,Female,Law,Low,No,No,On-Campus
+4347,Male,Engineering,Moderate,Yes,No,On-Campus
+4348,Female,Computer Science,High,No,No,On-Campus
+4350,Female,Law,Moderate,No,No,On-Campus
+4352,Female,Engineering,High,No,No,Off-Campus
+4353,Male,Engineering,Moderate,Yes,No,Off-Campus
+4354,Male,Others,Moderate,Yes,Yes,Off-Campus
+4355,Male,Others,Moderate,Yes,No,On-Campus
+4356,Female,Engineering,Moderate,Yes,No,On-Campus
+4369,Male,Law,Moderate,No,No,On-Campus
+4370,Male,Computer Science,Low,Yes,No,On-Campus
+4379,Male,Computer Science,Moderate,Yes,No,Off-Campus
+4380,Male,Computer Science,Low,No,No,Off-Campus
+4382,Female,Others,Moderate,No,No,On-Campus
+4385,Male,Engineering,Moderate,No,No,On-Campus
+4388,Male,Business,High,Yes,Yes,On-Campus
+4390,Female,Others,Moderate,Yes,No,Off-Campus
+4391,Male,Business,Moderate,Yes,Yes,Off-Campus
+4393,Female,Others,Low,No,No,On-Campus
+4395,Female,Computer Science,Low,No,No,Off-Campus
+4396,Male,Law,High,No,Yes,On-Campus
+4398,Female,Engineering,Low,Yes,Yes,Off-Campus
+4400,Male,Computer Science,High,No,No,On-Campus
+4402,Male,Engineering,Low,No,Yes,On-Campus
+4406,Male,Law,Moderate,No,No,Off-Campus
+4407,Female,Computer Science,Moderate,No,Yes,Off-Campus
+4408,Female,Engineering,Moderate,Yes,No,Off-Campus
+4411,Male,Engineering,High,No,No,Off-Campus
+4414,Male,Computer Science,Moderate,No,Yes,Off-Campus
+4415,Male,Engineering,Low,Yes,Yes,Off-Campus
+4417,Male,Computer Science,High,No,No,On-Campus
+4418,Female,Engineering,High,No,No,On-Campus
+4419,Female,Others,High,No,No,On-Campus
+4420,Male,Law,Moderate,Yes,Yes,Off-Campus
+4424,Male,Others,High,Yes,Yes,Off-Campus
+4425,Male,Law,Low,No,No,On-Campus
+4427,Male,Law,Moderate,No,No,Off-Campus
+4430,Male,Computer Science,Low,No,No,Off-Campus
+4432,Female,Law,Moderate,No,Yes,Off-Campus
+4436,Male,Engineering,Low,Yes,No,Off-Campus
+4438,Male,Computer Science,Low,Yes,No,Off-Campus
+4440,Female,Business,Moderate,Yes,No,On-Campus
+4442,Female,Others,Low,No,No,Off-Campus
+4444,Female,Law,Moderate,Yes,No,Off-Campus
+4447,Male,Engineering,Moderate,Yes,No,Off-Campus
+4448,Female,Computer Science,Low,No,No,Off-Campus
+4449,Male,Law,Moderate,No,No,Off-Campus
+4450,Male,Business,High,Yes,Yes,Off-Campus
+4456,Male,Others,Low,Yes,No,Off-Campus
+4457,Female,Business,Low,No,No,Off-Campus
+4458,Female,Others,High,No,No,Off-Campus
+4459,Male,Engineering,Low,No,Yes,Off-Campus
+4460,Female,Others,High,No,No,Off-Campus
+4461,Male,Engineering,Low,No,No,Off-Campus
+4462,Female,Business,Low,No,Yes,Off-Campus
+4468,Female,Law,Moderate,No,No,Off-Campus
+4469,Female,Others,High,No,No,Off-Campus
+4475,Female,Business,Moderate,Yes,No,On-Campus
+4476,Female,Others,High,No,No,On-Campus
+4480,Female,Engineering,Moderate,No,Yes,Off-Campus
+4482,Female,Computer Science,Moderate,No,No,On-Campus
+4485,Male,Business,Moderate,No,Yes,Off-Campus
+4488,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+4489,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+4493,Male,Others,Moderate,Yes,Yes,Off-Campus
+4495,Male,Business,High,No,No,On-Campus
+4498,Male,Computer Science,Low,No,No,On-Campus
+4499,Male,Engineering,Low,No,Yes,Off-Campus
+4501,Female,Computer Science,High,Yes,No,On-Campus
+4502,Female,Business,Moderate,Yes,No,On-Campus
+4505,Male,Engineering,High,Yes,No,Off-Campus
+4510,Male,Law,Moderate,No,Yes,On-Campus
+4511,Female,Computer Science,Moderate,No,No,On-Campus
+4512,Male,Engineering,Moderate,Yes,No,On-Campus
+4515,Male,Computer Science,High,Yes,Yes,On-Campus
+4521,Female,Law,Moderate,Yes,No,On-Campus
+4523,Female,Engineering,Moderate,Yes,No,On-Campus
+4525,Male,Law,High,No,Yes,On-Campus
+4527,Male,Law,Moderate,No,Yes,Off-Campus
+4533,Female,Computer Science,Moderate,No,No,On-Campus
+4537,Male,Engineering,Low,No,No,Off-Campus
+4539,Female,Business,Moderate,Yes,Yes,Off-Campus
+4541,Male,Law,High,No,No,On-Campus
+4542,Female,Law,High,No,No,On-Campus
+4548,Female,Law,High,No,Yes,On-Campus
+4550,Male,Computer Science,Moderate,Yes,No,Off-Campus
+4551,Female,Engineering,High,No,No,On-Campus
+4553,Male,Engineering,Moderate,No,Yes,On-Campus
+4554,Male,Others,Low,No,Yes,On-Campus
+4559,Female,Engineering,Moderate,No,No,On-Campus
+4560,Male,Engineering,Moderate,No,No,On-Campus
+4562,Female,Law,Low,No,No,Off-Campus
+4563,Female,Law,Moderate,No,No,Off-Campus
+4564,Male,Others,High,Yes,No,Off-Campus
+4565,Male,Computer Science,Low,Yes,No,On-Campus
+4567,Female,Engineering,Moderate,No,No,Off-Campus
+4572,Female,Business,Moderate,No,No,On-Campus
+4575,Female,Computer Science,Low,No,No,On-Campus
+4580,Female,Business,Low,No,No,On-Campus
+4589,Male,Business,Low,No,Yes,Off-Campus
+4590,Male,Law,Moderate,No,Yes,On-Campus
+4591,Female,Others,Moderate,Yes,No,Off-Campus
+4592,Female,Computer Science,Moderate,No,No,Off-Campus
+4593,Female,Business,Moderate,No,Yes,On-Campus
+4599,Female,Law,High,No,No,Off-Campus
+4600,Male,Business,Moderate,Yes,Yes,Off-Campus
+4606,Male,Computer Science,High,No,Yes,On-Campus
+4609,Female,Law,Moderate,Yes,No,On-Campus
+4614,Female,Others,High,No,Yes,Off-Campus
+4623,Male,Engineering,High,No,Yes,On-Campus
+4624,Female,Engineering,Moderate,No,No,On-Campus
+4625,Male,Computer Science,Low,No,Yes,Off-Campus
+4631,Female,Business,High,Yes,No,On-Campus
+4632,Male,Engineering,Low,Yes,No,On-Campus
+4638,Female,Business,Moderate,Yes,No,On-Campus
+4639,Female,Others,High,No,Yes,On-Campus
+4640,Female,Engineering,Moderate,No,Yes,Off-Campus
+4641,Female,Law,High,No,No,On-Campus
+4645,Female,Business,Moderate,No,No,Off-Campus
+4646,Female,Computer Science,Moderate,No,Yes,Off-Campus
+4648,Female,Computer Science,Moderate,Yes,No,On-Campus
+4649,Male,Computer Science,High,No,No,On-Campus
+4652,Male,Others,Moderate,No,Yes,Off-Campus
+4655,Female,Computer Science,Low,Yes,No,Off-Campus
+4661,Female,Engineering,High,Yes,No,On-Campus
+4663,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+4664,Female,Others,Moderate,Yes,No,On-Campus
+4666,Male,Law,Moderate,No,Yes,Off-Campus
+4669,Male,Engineering,Moderate,No,No,Off-Campus
+4672,Female,Computer Science,Low,No,No,Off-Campus
+4676,Male,Business,Moderate,Yes,No,Off-Campus
+4680,Male,Computer Science,Low,No,No,On-Campus
+4682,Male,Others,High,No,Yes,On-Campus
+4684,Female,Business,Moderate,No,No,On-Campus
+4687,Female,Law,Low,No,Yes,On-Campus
+4688,Female,Law,High,No,Yes,On-Campus
+4689,Female,Business,Moderate,Yes,No,Off-Campus
+4702,Male,Business,Low,No,No,On-Campus
+4707,Male,Computer Science,Low,No,No,Off-Campus
+4708,Female,Engineering,High,Yes,No,On-Campus
+4709,Male,Law,Moderate,No,No,On-Campus
+4711,Male,Engineering,High,No,No,On-Campus
+4712,Female,Law,High,Yes,No,Off-Campus
+4716,Male,Law,Low,Yes,No,Off-Campus
+4718,Female,Business,Moderate,No,No,On-Campus
+4720,Female,Law,High,Yes,No,Off-Campus
+4723,Female,Law,Moderate,No,No,On-Campus
+4725,Male,Others,Moderate,No,Yes,Off-Campus
+4726,Male,Others,High,No,Yes,Off-Campus
+4727,Female,Law,Low,Yes,Yes,On-Campus
+4729,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+4732,Female,Law,Low,No,No,Off-Campus
+4733,Male,Computer Science,Low,No,No,On-Campus
+4736,Female,Computer Science,Moderate,No,Yes,On-Campus
+4737,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+4738,Female,Engineering,High,Yes,No,On-Campus
+4743,Female,Business,Moderate,No,No,On-Campus
+4747,Male,Others,Moderate,No,Yes,On-Campus
+4749,Male,Law,Low,No,No,Off-Campus
+4756,Male,Engineering,High,Yes,Yes,Off-Campus
+4757,Male,Business,Moderate,No,No,Off-Campus
+4758,Male,Others,High,Yes,No,Off-Campus
+4764,Male,Law,High,No,No,Off-Campus
+4765,Male,Engineering,Low,Yes,No,Off-Campus
+4766,Male,Others,High,No,Yes,On-Campus
+4767,Male,Computer Science,Moderate,No,No,On-Campus
+4769,Female,Engineering,High,Yes,No,On-Campus
+4771,Female,Computer Science,Low,No,No,On-Campus
+4774,Female,Law,Moderate,Yes,No,Off-Campus
+4779,Female,Others,Moderate,No,No,On-Campus
+4780,Female,Law,Moderate,Yes,No,On-Campus
+4783,Female,Others,Moderate,No,No,On-Campus
+4785,Female,Law,High,No,Yes,On-Campus
+4787,Female,Computer Science,Moderate,No,Yes,On-Campus
+4788,Female,Engineering,Low,Yes,Yes,Off-Campus
+4791,Female,Others,High,Yes,No,On-Campus
+4793,Female,Business,Moderate,Yes,Yes,Off-Campus
+4795,Male,Engineering,High,No,Yes,Off-Campus
+4796,Female,Law,High,No,No,Off-Campus
+4798,Male,Law,High,Yes,Yes,Off-Campus
+4799,Female,Law,Low,No,No,Off-Campus
+4800,Female,Others,Moderate,No,Yes,On-Campus
+4802,Male,Law,High,No,No,On-Campus
+4803,Male,Engineering,Low,Yes,No,Off-Campus
+4807,Male,Business,High,Yes,No,Off-Campus
+4813,Female,Computer Science,High,No,Yes,Off-Campus
+4814,Female,Business,Low,No,No,On-Campus
+4816,Male,Computer Science,Moderate,No,No,On-Campus
+4829,Male,Law,High,Yes,No,On-Campus
+4831,Female,Business,Moderate,Yes,No,Off-Campus
+4832,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+4833,Male,Law,Moderate,No,Yes,On-Campus
+4835,Male,Engineering,Moderate,Yes,No,Off-Campus
+4836,Male,Engineering,High,No,No,On-Campus
+4838,Female,Engineering,Low,No,No,Off-Campus
+4839,Female,Computer Science,Low,No,No,On-Campus
+4846,Male,Business,High,Yes,Yes,On-Campus
+4847,Female,Engineering,Moderate,Yes,No,On-Campus
+4848,Female,Engineering,High,Yes,No,Off-Campus
+4854,Female,Business,Low,No,Yes,On-Campus
+4857,Male,Law,Low,Yes,No,On-Campus
+4862,Female,Law,Moderate,No,No,Off-Campus
+4865,Female,Law,High,Yes,No,On-Campus
+4866,Male,Others,Moderate,Yes,No,Off-Campus
+4870,Male,Engineering,High,Yes,No,On-Campus
+4872,Male,Computer Science,Moderate,No,No,On-Campus
+4875,Male,Others,Moderate,No,No,On-Campus
+4879,Female,Law,Low,No,No,Off-Campus
+4885,Male,Business,Moderate,No,Yes,On-Campus
+4887,Male,Computer Science,Moderate,No,No,On-Campus
+4888,Male,Engineering,High,Yes,Yes,On-Campus
+4890,Female,Others,Moderate,Yes,No,Off-Campus
+4893,Male,Engineering,Moderate,Yes,No,On-Campus
+4894,Male,Business,Low,No,No,Off-Campus
+4899,Male,Engineering,Moderate,No,No,Off-Campus
+4900,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+4902,Female,Engineering,Low,No,Yes,Off-Campus
+4905,Female,Others,Moderate,Yes,Yes,On-Campus
+4907,Female,Engineering,High,No,No,Off-Campus
+4908,Male,Law,Moderate,No,Yes,On-Campus
+4909,Female,Business,High,No,No,Off-Campus
+4910,Female,Engineering,Low,Yes,No,Off-Campus
+4914,Female,Computer Science,Moderate,Yes,No,Off-Campus
+4915,Female,Others,Moderate,No,No,Off-Campus
+4916,Male,Computer Science,Moderate,No,Yes,On-Campus
+4917,Male,Computer Science,Moderate,No,No,Off-Campus
+4920,Female,Law,Moderate,No,No,Off-Campus
+4921,Male,Law,Moderate,No,No,On-Campus
+4923,Male,Law,High,Yes,No,Off-Campus
+4924,Male,Engineering,Low,Yes,No,On-Campus
+4928,Male,Others,Moderate,No,No,Off-Campus
+4929,Female,Computer Science,Moderate,Yes,No,Off-Campus
+4930,Female,Others,Moderate,No,Yes,Off-Campus
+4936,Female,Computer Science,High,Yes,Yes,On-Campus
+4937,Male,Engineering,High,Yes,No,Off-Campus
+4938,Female,Law,Moderate,No,Yes,On-Campus
+4940,Female,Business,Moderate,No,Yes,On-Campus
+4942,Female,Business,Low,No,No,Off-Campus
+4943,Male,Computer Science,High,Yes,Yes,On-Campus
+4945,Female,Engineering,High,Yes,Yes,Off-Campus
+4947,Female,Engineering,High,No,No,Off-Campus
+4950,Male,Business,High,No,Yes,On-Campus
+4951,Female,Business,Moderate,No,No,Off-Campus
+4953,Female,Law,High,No,No,Off-Campus
+4959,Female,Engineering,Moderate,No,No,Off-Campus
+4961,Female,Engineering,Low,No,No,On-Campus
+4962,Male,Engineering,High,Yes,Yes,On-Campus
+4966,Female,Computer Science,High,Yes,No,On-Campus
+4973,Male,Computer Science,Moderate,No,Yes,Off-Campus
+4974,Female,Law,High,No,Yes,Off-Campus
+4978,Male,Law,Low,No,Yes,Off-Campus
+4979,Male,Law,Low,No,No,Off-Campus
+4982,Female,Business,Low,No,No,On-Campus
+4985,Male,Engineering,Moderate,No,No,Off-Campus
+4987,Female,Others,High,No,No,Off-Campus
+4988,Female,Others,Moderate,No,No,Off-Campus
+4989,Female,Law,High,No,No,On-Campus
+4994,Male,Engineering,Moderate,No,No,On-Campus
+4996,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+4999,Female,Engineering,High,Yes,No,Off-Campus
+5000,Male,Engineering,Low,No,Yes,On-Campus
+5001,Female,Others,Moderate,No,No,On-Campus
+5002,Female,Engineering,Low,Yes,No,On-Campus
+5003,Female,Law,High,No,No,Off-Campus
+5005,Male,Law,High,Yes,No,Off-Campus
+5009,Female,Engineering,High,No,No,On-Campus
+5010,Male,Computer Science,Moderate,No,No,Off-Campus
+5013,Female,Computer Science,Moderate,No,No,On-Campus
+5014,Female,Law,Moderate,Yes,No,On-Campus
+5015,Female,Law,Moderate,No,No,On-Campus
+5023,Male,Engineering,Low,Yes,No,Off-Campus
+5024,Female,Law,High,Yes,No,Off-Campus
+5025,Female,Engineering,Moderate,No,No,Off-Campus
+5026,Male,Computer Science,Low,No,No,Off-Campus
+5028,Female,Law,Moderate,Yes,No,On-Campus
+5033,Female,Computer Science,Moderate,Yes,No,Off-Campus
+5040,Male,Law,Moderate,No,No,On-Campus
+5045,Male,Law,Low,No,No,Off-Campus
+5047,Male,Others,High,No,Yes,Off-Campus
+5049,Male,Computer Science,Moderate,Yes,No,On-Campus
+5050,Female,Law,Moderate,Yes,No,On-Campus
+5052,Female,Business,Moderate,No,No,Off-Campus
+5055,Female,Business,Low,Yes,Yes,On-Campus
+5056,Male,Others,High,No,No,Off-Campus
+5057,Female,Others,Moderate,Yes,No,Off-Campus
+5060,Male,Computer Science,Moderate,No,Yes,On-Campus
+5061,Male,Others,Low,No,No,Off-Campus
+5063,Female,Business,Moderate,No,Yes,Off-Campus
+5065,Female,Others,Moderate,No,Yes,On-Campus
+5066,Male,Computer Science,Moderate,No,No,On-Campus
+5069,Female,Law,High,Yes,No,Off-Campus
+5070,Female,Computer Science,Moderate,No,No,Off-Campus
+5071,Male,Business,High,No,Yes,On-Campus
+5073,Female,Engineering,High,Yes,Yes,Off-Campus
+5074,Male,Others,Moderate,Yes,No,On-Campus
+5076,Female,Business,High,No,No,On-Campus
+5077,Male,Engineering,Low,No,No,Off-Campus
+5081,Female,Computer Science,High,Yes,No,On-Campus
+5082,Female,Business,Low,Yes,No,Off-Campus
+5083,Female,Business,High,No,Yes,Off-Campus
+5084,Female,Law,Moderate,Yes,No,On-Campus
+5086,Male,Law,Moderate,Yes,Yes,Off-Campus
+5090,Male,Computer Science,Moderate,No,Yes,Off-Campus
+5091,Female,Law,Low,Yes,Yes,On-Campus
+5092,Female,Law,Moderate,No,No,On-Campus
+5096,Male,Business,Moderate,Yes,Yes,On-Campus
+5097,Male,Engineering,Moderate,No,No,On-Campus
+5098,Male,Engineering,Moderate,No,Yes,On-Campus
+5099,Female,Others,High,No,Yes,Off-Campus
+5100,Female,Law,Moderate,Yes,No,Off-Campus
+5102,Male,Law,Low,No,Yes,On-Campus
+5103,Female,Law,Moderate,No,Yes,Off-Campus
+5104,Female,Engineering,High,Yes,Yes,Off-Campus
+5107,Male,Business,High,Yes,No,Off-Campus
+5108,Female,Law,Moderate,Yes,No,Off-Campus
+5113,Female,Business,High,No,Yes,On-Campus
+5115,Female,Business,Low,No,No,On-Campus
+5118,Male,Engineering,Moderate,Yes,No,On-Campus
+5119,Male,Computer Science,High,No,No,On-Campus
+5120,Male,Law,Moderate,Yes,No,Off-Campus
+5121,Female,Business,Moderate,Yes,No,Off-Campus
+5122,Male,Others,Moderate,Yes,Yes,Off-Campus
+5123,Female,Law,High,Yes,No,Off-Campus
+5124,Male,Computer Science,Low,No,No,Off-Campus
+5127,Female,Law,Moderate,No,No,On-Campus
+5132,Female,Others,Moderate,No,No,Off-Campus
+5135,Female,Engineering,High,Yes,No,Off-Campus
+5137,Female,Law,Moderate,No,No,Off-Campus
+5139,Male,Law,Moderate,Yes,No,On-Campus
+5140,Female,Business,High,No,No,Off-Campus
+5141,Male,Engineering,Moderate,No,No,On-Campus
+5145,Male,Computer Science,Low,Yes,No,On-Campus
+5146,Female,Engineering,Low,Yes,No,On-Campus
+5150,Female,Business,High,No,No,On-Campus
+5151,Male,Computer Science,High,No,No,Off-Campus
+5152,Male,Law,Moderate,No,No,On-Campus
+5153,Female,Business,Moderate,Yes,Yes,Off-Campus
+5158,Female,Others,Low,No,No,On-Campus
+5163,Male,Law,Moderate,Yes,No,On-Campus
+5164,Male,Computer Science,Moderate,No,No,On-Campus
+5165,Female,Engineering,High,No,Yes,On-Campus
+5167,Female,Others,High,Yes,Yes,On-Campus
+5169,Male,Computer Science,Moderate,No,No,Off-Campus
+5170,Female,Business,Moderate,No,No,Off-Campus
+5171,Female,Law,Low,No,No,Off-Campus
+5172,Female,Engineering,Moderate,Yes,No,Off-Campus
+5174,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+5175,Male,Others,Moderate,Yes,Yes,On-Campus
+5179,Female,Computer Science,High,Yes,Yes,On-Campus
+5181,Female,Engineering,Moderate,Yes,No,Off-Campus
+5188,Male,Law,Moderate,No,Yes,Off-Campus
+5193,Female,Business,Low,Yes,No,Off-Campus
+5195,Male,Law,Low,Yes,No,Off-Campus
+5202,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+5203,Male,Law,Moderate,Yes,No,Off-Campus
+5208,Male,Law,Moderate,No,Yes,On-Campus
+5209,Female,Law,High,Yes,No,On-Campus
+5210,Male,Engineering,Moderate,No,No,On-Campus
+5214,Male,Law,Moderate,No,Yes,Off-Campus
+5215,Male,Engineering,Moderate,No,No,On-Campus
+5219,Male,Law,High,Yes,No,On-Campus
+5220,Male,Others,High,No,No,Off-Campus
+5222,Male,Business,Moderate,No,Yes,Off-Campus
+5224,Male,Others,High,No,Yes,Off-Campus
+5226,Male,Law,Moderate,Yes,No,Off-Campus
+5228,Female,Engineering,Moderate,Yes,No,Off-Campus
+5230,Female,Engineering,Low,No,Yes,Off-Campus
+5231,Male,Law,High,Yes,No,Off-Campus
+5232,Male,Others,Moderate,No,Yes,On-Campus
+5238,Male,Law,Moderate,No,No,On-Campus
+5239,Male,Business,Moderate,No,No,On-Campus
+5251,Male,Computer Science,Moderate,Yes,No,On-Campus
+5252,Female,Computer Science,High,No,Yes,Off-Campus
+5254,Male,Business,Moderate,Yes,No,Off-Campus
+5255,Male,Computer Science,Low,Yes,No,On-Campus
+5257,Male,Engineering,High,No,No,On-Campus
+5258,Male,Computer Science,High,No,No,On-Campus
+5262,Male,Law,Moderate,No,Yes,Off-Campus
+5266,Female,Others,High,No,No,On-Campus
+5273,Male,Engineering,Moderate,No,No,On-Campus
+5274,Male,Engineering,Moderate,Yes,No,Off-Campus
+5277,Male,Law,Low,No,No,On-Campus
+5280,Female,Law,High,No,Yes,Off-Campus
+5285,Male,Engineering,Moderate,Yes,No,On-Campus
+5287,Female,Computer Science,Moderate,Yes,No,Off-Campus
+5289,Female,Computer Science,Moderate,Yes,No,On-Campus
+5290,Male,Others,Moderate,Yes,No,Off-Campus
+5293,Female,Engineering,Moderate,No,No,Off-Campus
+5294,Male,Others,High,No,No,On-Campus
+5297,Female,Law,Moderate,Yes,No,On-Campus
+5299,Male,Law,Moderate,No,No,On-Campus
+5301,Male,Computer Science,High,No,Yes,On-Campus
+5303,Female,Engineering,Moderate,No,No,On-Campus
+5306,Female,Law,Low,Yes,Yes,On-Campus
+5308,Female,Others,Moderate,No,Yes,Off-Campus
+5309,Male,Law,High,Yes,No,Off-Campus
+5311,Female,Computer Science,High,Yes,No,Off-Campus
+5312,Male,Engineering,Moderate,No,No,Off-Campus
+5314,Female,Business,Moderate,Yes,No,On-Campus
+5316,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+5319,Female,Law,Moderate,No,No,Off-Campus
+5323,Female,Law,Moderate,No,No,On-Campus
+5325,Female,Law,High,No,Yes,On-Campus
+5326,Female,Law,Low,Yes,Yes,Off-Campus
+5327,Female,Law,High,Yes,No,Off-Campus
+5328,Female,Law,Moderate,No,No,Off-Campus
+5335,Male,Law,Moderate,No,No,Off-Campus
+5336,Female,Law,Moderate,Yes,No,On-Campus
+5338,Male,Business,High,No,Yes,Off-Campus
+5340,Female,Engineering,High,No,No,Off-Campus
+5341,Female,Business,Moderate,Yes,No,Off-Campus
+5342,Female,Law,High,No,No,Off-Campus
+5343,Male,Business,Moderate,No,No,On-Campus
+5344,Male,Others,Moderate,Yes,No,Off-Campus
+5345,Female,Engineering,Moderate,Yes,No,On-Campus
+5349,Female,Engineering,Low,No,No,On-Campus
+5351,Female,Computer Science,Low,No,No,Off-Campus
+5356,Female,Business,Moderate,Yes,No,On-Campus
+5357,Male,Others,Low,Yes,Yes,On-Campus
+5358,Female,Law,High,Yes,No,On-Campus
+5361,Male,Law,Moderate,No,No,On-Campus
+5364,Female,Law,Moderate,No,No,On-Campus
+5371,Female,Law,Low,No,Yes,On-Campus
+5373,Female,Law,Low,No,No,On-Campus
+5376,Female,Law,Low,No,No,On-Campus
+5378,Female,Others,Moderate,No,Yes,On-Campus
+5381,Female,Law,Moderate,No,No,On-Campus
+5382,Male,Law,Moderate,No,No,Off-Campus
+5383,Female,Law,High,Yes,Yes,Off-Campus
+5385,Male,Computer Science,High,No,No,Off-Campus
+5386,Female,Computer Science,Moderate,No,Yes,On-Campus
+5387,Male,Law,Low,Yes,Yes,Off-Campus
+5388,Female,Computer Science,Moderate,No,No,On-Campus
+5389,Male,Business,Low,No,Yes,Off-Campus
+5390,Male,Computer Science,Moderate,Yes,No,Off-Campus
+5393,Male,Engineering,High,Yes,No,Off-Campus
+5394,Female,Law,Moderate,No,No,Off-Campus
+5395,Male,Others,High,No,No,On-Campus
+5397,Female,Business,Moderate,Yes,Yes,Off-Campus
+5402,Male,Law,Low,Yes,No,Off-Campus
+5404,Male,Business,High,Yes,No,On-Campus
+5406,Male,Engineering,Low,No,No,On-Campus
+5408,Male,Computer Science,Moderate,Yes,Yes,Off-Campus
+5409,Male,Business,Moderate,No,Yes,On-Campus
+5411,Male,Computer Science,Low,No,No,On-Campus
+5413,Female,Law,Moderate,No,Yes,Off-Campus
+5415,Female,Engineering,Moderate,Yes,No,Off-Campus
+5416,Male,Others,Moderate,No,No,On-Campus
+5419,Male,Computer Science,Moderate,Yes,No,On-Campus
+5421,Female,Engineering,High,No,Yes,On-Campus
+5424,Male,Computer Science,High,No,No,On-Campus
+5425,Male,Law,Moderate,No,No,Off-Campus
+5426,Female,Computer Science,High,Yes,No,On-Campus
+5427,Female,Engineering,High,Yes,No,Off-Campus
+5429,Female,Law,Moderate,No,No,On-Campus
+5430,Female,Engineering,Moderate,Yes,Yes,On-Campus
+5431,Male,Others,Moderate,Yes,No,Off-Campus
+5432,Female,Engineering,High,No,No,Off-Campus
+5438,Male,Engineering,High,No,No,Off-Campus
+5440,Male,Law,Moderate,Yes,No,Off-Campus
+5449,Male,Business,Moderate,No,Yes,On-Campus
+5450,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+5453,Female,Engineering,High,Yes,No,On-Campus
+5454,Male,Computer Science,Moderate,No,No,Off-Campus
+5455,Female,Engineering,Moderate,Yes,Yes,Off-Campus
+5456,Female,Engineering,High,No,No,Off-Campus
+5463,Female,Business,Moderate,No,No,On-Campus
+5464,Female,Business,Moderate,Yes,Yes,Off-Campus
+5466,Male,Law,Low,No,Yes,On-Campus
+5468,Female,Law,Moderate,No,No,On-Campus
+5471,Female,Business,Moderate,No,No,Off-Campus
+5473,Female,Computer Science,High,No,No,Off-Campus
+5474,Male,Law,High,No,Yes,Off-Campus
+5476,Female,Law,Moderate,Yes,No,Off-Campus
+5478,Male,Engineering,Moderate,Yes,No,Off-Campus
+5480,Male,Others,High,No,No,Off-Campus
+5482,Female,Computer Science,High,No,Yes,Off-Campus
+5483,Female,Others,High,No,No,Off-Campus
+5484,Male,Computer Science,High,Yes,Yes,On-Campus
+5485,Female,Others,Low,Yes,Yes,On-Campus
+5486,Male,Business,Moderate,Yes,Yes,On-Campus
+5491,Female,Others,Moderate,No,No,On-Campus
+5500,Female,Others,Low,No,No,Off-Campus
+5502,Male,Business,High,Yes,No,Off-Campus
+5504,Female,Computer Science,Moderate,No,No,On-Campus
+5507,Male,Engineering,High,Yes,No,On-Campus
+5511,Female,Law,Moderate,No,Yes,On-Campus
+5513,Female,Law,High,No,No,Off-Campus
+5519,Male,Engineering,High,Yes,No,On-Campus
+5521,Female,Others,Low,Yes,No,Off-Campus
+5522,Female,Others,High,No,No,Off-Campus
+5526,Female,Business,Low,No,No,On-Campus
+5529,Female,Computer Science,High,Yes,No,Off-Campus
+5532,Female,Law,High,No,No,Off-Campus
+5533,Male,Engineering,High,No,No,On-Campus
+5535,Male,Engineering,High,No,No,Off-Campus
+5536,Male,Business,Moderate,No,No,On-Campus
+5537,Female,Business,High,No,Yes,Off-Campus
+5539,Male,Others,Moderate,No,No,On-Campus
+5542,Male,Computer Science,Moderate,No,No,Off-Campus
+5545,Male,Law,High,Yes,No,On-Campus
+5547,Male,Computer Science,High,Yes,No,Off-Campus
+5551,Female,Law,High,Yes,No,Off-Campus
+5555,Female,Engineering,Moderate,No,Yes,Off-Campus
+5558,Female,Law,High,No,No,Off-Campus
+5561,Male,Computer Science,Low,No,No,Off-Campus
+5562,Female,Engineering,Moderate,Yes,No,Off-Campus
+5563,Male,Law,Moderate,Yes,No,On-Campus
+5565,Female,Engineering,High,No,No,Off-Campus
+5568,Female,Engineering,Moderate,Yes,No,On-Campus
+5569,Male,Engineering,Moderate,No,No,Off-Campus
+5570,Male,Law,High,No,Yes,On-Campus
+5574,Female,Others,Moderate,Yes,Yes,Off-Campus
+5577,Male,Computer Science,High,Yes,Yes,Off-Campus
+5578,Male,Law,Moderate,Yes,No,Off-Campus
+5579,Female,Computer Science,Moderate,Yes,No,On-Campus
+5580,Female,Others,Moderate,No,No,On-Campus
+5581,Female,Others,Moderate,Yes,Yes,On-Campus
+5583,Female,Law,Low,Yes,No,Off-Campus
+5584,Female,Engineering,Moderate,No,No,Off-Campus
+5587,Male,Law,Moderate,No,Yes,On-Campus
+5588,Female,Others,Low,No,No,Off-Campus
+5589,Female,Others,Moderate,No,Yes,Off-Campus
+5590,Male,Engineering,Low,No,No,Off-Campus
+5592,Female,Business,Low,No,No,Off-Campus
+5594,Female,Engineering,Low,No,No,On-Campus
+5599,Female,Law,Moderate,Yes,No,Off-Campus
+5601,Male,Business,High,Yes,No,On-Campus
+5603,Female,Engineering,Moderate,Yes,No,Off-Campus
+5604,Female,Law,Moderate,No,Yes,Off-Campus
+5606,Female,Law,Low,Yes,Yes,On-Campus
+5607,Female,Others,Moderate,Yes,Yes,On-Campus
+5608,Male,Engineering,Moderate,No,Yes,On-Campus
+5610,Female,Engineering,Moderate,Yes,No,On-Campus
+5612,Female,Law,High,Yes,Yes,Off-Campus
+5615,Female,Law,High,No,No,On-Campus
+5617,Male,Engineering,High,Yes,No,On-Campus
+5620,Male,Computer Science,Moderate,No,No,On-Campus
+5624,Female,Computer Science,Moderate,Yes,No,Off-Campus
+5626,Male,Business,Moderate,No,No,On-Campus
+5627,Male,Law,High,Yes,No,On-Campus
+5629,Male,Computer Science,Moderate,No,Yes,Off-Campus
+5630,Male,Computer Science,High,No,No,Off-Campus
+5631,Female,Engineering,High,Yes,No,Off-Campus
+5632,Female,Business,High,No,No,Off-Campus
+5633,Male,Computer Science,Moderate,Yes,No,Off-Campus
+5637,Female,Engineering,High,No,No,On-Campus
+5640,Male,Law,Moderate,No,No,Off-Campus
+5641,Male,Engineering,Low,Yes,Yes,Off-Campus
+5648,Female,Law,Moderate,No,No,Off-Campus
+5650,Female,Computer Science,Low,No,No,Off-Campus
+5651,Female,Law,Moderate,No,No,Off-Campus
+5652,Male,Engineering,Moderate,Yes,No,On-Campus
+5654,Male,Engineering,High,No,No,Off-Campus
+5661,Male,Business,Moderate,Yes,No,Off-Campus
+5662,Female,Others,Moderate,Yes,Yes,Off-Campus
+5663,Female,Computer Science,Moderate,No,Yes,On-Campus
+5664,Female,Computer Science,Moderate,Yes,No,Off-Campus
+5665,Female,Business,Low,Yes,No,On-Campus
+5667,Male,Business,High,No,No,On-Campus
+5674,Male,Computer Science,High,No,No,Off-Campus
+5675,Female,Business,Moderate,No,No,On-Campus
+5683,Male,Computer Science,High,No,Yes,On-Campus
+5684,Male,Computer Science,High,Yes,No,Off-Campus
+5687,Female,Business,Moderate,No,No,Off-Campus
+5692,Female,Others,High,Yes,No,On-Campus
+5694,Female,Engineering,High,Yes,No,Off-Campus
+5695,Female,Business,High,No,No,On-Campus
+5696,Male,Law,High,No,Yes,On-Campus
+5698,Female,Computer Science,Moderate,Yes,No,On-Campus
+5699,Female,Computer Science,Moderate,No,No,Off-Campus
+5700,Female,Computer Science,Low,No,No,On-Campus
+5703,Male,Others,High,No,Yes,On-Campus
+5705,Female,Law,Moderate,Yes,No,On-Campus
+5707,Male,Business,Low,No,No,On-Campus
+5711,Female,Engineering,Moderate,No,No,Off-Campus
+5712,Male,Computer Science,Moderate,Yes,No,On-Campus
+5715,Male,Others,Moderate,No,No,Off-Campus
+5717,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+5718,Female,Engineering,Moderate,Yes,No,On-Campus
+5719,Female,Computer Science,Moderate,No,No,Off-Campus
+5721,Male,Law,Low,No,No,On-Campus
+5722,Male,Computer Science,High,No,No,On-Campus
+5723,Male,Computer Science,High,Yes,Yes,Off-Campus
+5728,Female,Others,Moderate,No,No,Off-Campus
+5729,Male,Computer Science,High,No,No,Off-Campus
+5730,Male,Business,High,No,No,Off-Campus
+5736,Male,Business,Low,No,Yes,Off-Campus
+5737,Male,Computer Science,Low,No,Yes,Off-Campus
+5740,Male,Law,Moderate,No,No,On-Campus
+5741,Male,Engineering,High,No,Yes,On-Campus
+5744,Female,Business,High,No,No,Off-Campus
+5748,Male,Others,Moderate,No,No,On-Campus
+5750,Male,Law,High,Yes,Yes,Off-Campus
+5751,Male,Engineering,High,No,No,Off-Campus
+5752,Male,Law,Moderate,No,No,On-Campus
+5754,Male,Law,Low,No,No,On-Campus
+5755,Female,Engineering,Moderate,Yes,No,On-Campus
+5757,Male,Engineering,High,No,No,On-Campus
+5758,Male,Law,Moderate,Yes,No,On-Campus
+5759,Female,Computer Science,Moderate,Yes,No,On-Campus
+5761,Male,Law,High,Yes,No,Off-Campus
+5762,Female,Others,Moderate,Yes,No,Off-Campus
+5764,Male,Computer Science,Moderate,No,No,Off-Campus
+5770,Female,Engineering,Low,No,No,Off-Campus
+5773,Female,Business,Moderate,No,Yes,Off-Campus
+5774,Female,Others,Moderate,Yes,Yes,Off-Campus
+5776,Male,Law,High,No,Yes,Off-Campus
+5781,Female,Computer Science,Moderate,Yes,No,Off-Campus
+5782,Male,Computer Science,Moderate,Yes,No,Off-Campus
+5783,Male,Engineering,Moderate,No,No,Off-Campus
+5785,Male,Law,Moderate,No,No,Off-Campus
+5786,Male,Law,Low,No,No,On-Campus
+5791,Female,Engineering,High,No,No,On-Campus
+5794,Female,Others,High,No,No,On-Campus
+5795,Female,Business,Moderate,No,No,Off-Campus
+5797,Male,Others,High,No,No,Off-Campus
+5798,Male,Computer Science,High,No,Yes,On-Campus
+5800,Male,Computer Science,Moderate,Yes,No,Off-Campus
+5801,Female,Law,Moderate,No,No,Off-Campus
+5804,Female,Computer Science,High,No,No,Off-Campus
+5807,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+5808,Male,Engineering,High,No,No,On-Campus
+5810,Male,Law,High,No,No,Off-Campus
+5814,Male,Business,Moderate,Yes,Yes,Off-Campus
+5815,Female,Computer Science,Moderate,No,No,Off-Campus
+5820,Female,Engineering,Moderate,Yes,No,On-Campus
+5821,Male,Others,High,Yes,No,Off-Campus
+5824,Female,Others,High,No,Yes,Off-Campus
+5825,Male,Business,High,No,Yes,On-Campus
+5829,Male,Others,Moderate,No,No,On-Campus
+5830,Female,Computer Science,Moderate,No,No,Off-Campus
+5833,Female,Computer Science,High,No,No,On-Campus
+5834,Female,Law,High,Yes,Yes,On-Campus
+5836,Female,Engineering,High,Yes,No,Off-Campus
+5842,Male,Engineering,Moderate,No,No,On-Campus
+5843,Male,Law,High,Yes,No,On-Campus
+5846,Male,Law,Moderate,No,Yes,On-Campus
+5847,Male,Law,Moderate,No,No,On-Campus
+5848,Female,Business,Moderate,No,No,Off-Campus
+5849,Male,Law,Moderate,No,No,On-Campus
+5850,Female,Others,High,Yes,Yes,On-Campus
+5856,Female,Law,High,Yes,Yes,On-Campus
+5859,Female,Engineering,High,No,No,Off-Campus
+5860,Male,Law,High,Yes,No,Off-Campus
+5862,Female,Engineering,High,Yes,No,On-Campus
+5864,Male,Others,High,No,Yes,Off-Campus
+5867,Female,Law,Moderate,No,No,On-Campus
+5871,Female,Engineering,Low,Yes,Yes,On-Campus
+5873,Female,Others,Moderate,Yes,No,Off-Campus
+5874,Female,Business,Moderate,No,No,Off-Campus
+5875,Male,Computer Science,Low,Yes,Yes,Off-Campus
+5876,Female,Others,High,Yes,No,Off-Campus
+5878,Female,Law,High,Yes,Yes,On-Campus
+5880,Female,Engineering,Low,No,No,Off-Campus
+5881,Female,Engineering,Moderate,No,Yes,On-Campus
+5882,Male,Others,Low,Yes,No,Off-Campus
+5884,Female,Law,Moderate,Yes,Yes,On-Campus
+5889,Female,Law,Moderate,No,Yes,On-Campus
+5892,Male,Computer Science,Moderate,No,Yes,On-Campus
+5893,Male,Others,Moderate,Yes,Yes,Off-Campus
+5897,Female,Business,High,No,Yes,On-Campus
+5898,Female,Others,Moderate,Yes,No,On-Campus
+5901,Male,Law,High,No,No,On-Campus
+5902,Female,Business,Moderate,No,No,On-Campus
+5905,Female,Law,Moderate,No,No,On-Campus
+5913,Male,Computer Science,Low,No,No,Off-Campus
+5914,Male,Law,Low,No,Yes,On-Campus
+5915,Male,Computer Science,High,No,No,Off-Campus
+5922,Male,Others,High,No,No,Off-Campus
+5927,Female,Computer Science,Moderate,No,No,Off-Campus
+5928,Male,Law,Moderate,No,Yes,Off-Campus
+5929,Female,Law,Moderate,No,No,Off-Campus
+5931,Male,Others,Moderate,Yes,No,On-Campus
+5934,Male,Law,High,No,No,Off-Campus
+5935,Male,Engineering,High,No,Yes,On-Campus
+5938,Female,Law,Moderate,No,Yes,On-Campus
+5942,Female,Engineering,Moderate,No,Yes,On-Campus
+5943,Female,Law,Moderate,No,No,On-Campus
+5944,Male,Others,High,Yes,No,On-Campus
+5947,Male,Others,High,Yes,Yes,On-Campus
+5948,Male,Business,Moderate,No,No,Off-Campus
+5952,Male,Law,Moderate,No,No,On-Campus
+5960,Male,Computer Science,Moderate,No,No,Off-Campus
+5961,Female,Computer Science,Moderate,Yes,Yes,Off-Campus
+5964,Female,Law,High,Yes,Yes,On-Campus
+5967,Male,Law,Moderate,No,No,Off-Campus
+5968,Female,Business,Moderate,No,No,Off-Campus
+5971,Female,Engineering,Moderate,Yes,No,On-Campus
+5972,Male,Engineering,Moderate,No,No,Off-Campus
+5974,Female,Law,High,No,Yes,Off-Campus
+5976,Female,Computer Science,Moderate,No,Yes,On-Campus
+5977,Female,Others,High,Yes,Yes,Off-Campus
+5982,Male,Others,High,Yes,No,Off-Campus
+5985,Female,Engineering,Low,No,No,Off-Campus
+5989,Female,Law,Moderate,No,No,Off-Campus
+5992,Male,Engineering,High,Yes,Yes,On-Campus
+5993,Male,Computer Science,High,Yes,Yes,On-Campus
+5996,Female,Computer Science,Moderate,Yes,No,On-Campus
+5997,Female,Law,High,No,No,Off-Campus
+5998,Male,Law,Moderate,No,No,On-Campus
+6000,Female,Engineering,High,No,No,On-Campus
+6001,Male,Others,Low,No,Yes,On-Campus
+6005,Female,Others,High,No,No,Off-Campus
+6008,Female,Computer Science,High,No,No,On-Campus
+6010,Female,Law,High,No,No,Off-Campus
+6012,Female,Business,Low,Yes,Yes,On-Campus
+6018,Female,Business,High,No,No,On-Campus
+6021,Female,Business,Moderate,Yes,No,Off-Campus
+6027,Female,Law,Moderate,Yes,No,On-Campus
+6028,Male,Computer Science,Moderate,No,Yes,On-Campus
+6029,Female,Law,Moderate,Yes,No,On-Campus
+6030,Female,Business,Moderate,No,No,On-Campus
+6032,Female,Law,High,No,No,On-Campus
+6033,Male,Others,Moderate,Yes,No,Off-Campus
+6034,Female,Engineering,High,No,No,On-Campus
+6037,Female,Business,Moderate,No,No,Off-Campus
+6038,Female,Computer Science,Moderate,No,No,Off-Campus
+6041,Female,Engineering,Low,No,No,On-Campus
+6044,Male,Law,Moderate,No,Yes,On-Campus
+6046,Male,Computer Science,Low,Yes,Yes,Off-Campus
+6048,Male,Law,Moderate,No,Yes,On-Campus
+6052,Male,Law,Moderate,No,Yes,Off-Campus
+6053,Male,Business,Moderate,No,No,Off-Campus
+6054,Female,Engineering,High,Yes,Yes,On-Campus
+6055,Female,Engineering,High,No,No,On-Campus
+6056,Female,Business,Moderate,Yes,No,On-Campus
+6060,Male,Law,Moderate,Yes,Yes,On-Campus
+6065,Female,Engineering,High,No,No,On-Campus
+6067,Male,Others,Moderate,Yes,No,Off-Campus
+6068,Female,Law,Low,Yes,Yes,Off-Campus
+6070,Male,Others,High,Yes,No,Off-Campus
+6072,Male,Computer Science,High,No,No,On-Campus
+6073,Male,Engineering,High,No,No,On-Campus
+6074,Female,Engineering,Low,No,No,On-Campus
+6076,Female,Business,Low,No,Yes,Off-Campus
+6079,Male,Computer Science,Low,No,No,Off-Campus
+6080,Female,Business,Low,Yes,No,On-Campus
+6081,Male,Law,High,No,No,On-Campus
+6083,Female,Law,Low,No,Yes,Off-Campus
+6084,Female,Law,Moderate,No,No,On-Campus
+6087,Male,Law,Moderate,Yes,Yes,On-Campus
+6094,Female,Engineering,Moderate,No,Yes,On-Campus
+6098,Female,Others,High,Yes,No,On-Campus
+6099,Male,Law,Moderate,No,Yes,Off-Campus
+6102,Female,Others,High,No,No,Off-Campus
+6107,Male,Law,High,No,No,Off-Campus
+6110,Female,Business,High,Yes,No,Off-Campus
+6112,Male,Engineering,Moderate,Yes,No,On-Campus
+6114,Male,Computer Science,Moderate,No,No,On-Campus
+6115,Female,Engineering,Low,Yes,Yes,On-Campus
+6116,Male,Business,Moderate,No,No,Off-Campus
+6117,Female,Others,High,No,No,Off-Campus
+6119,Female,Others,Moderate,No,Yes,On-Campus
+6122,Male,Business,Moderate,No,Yes,On-Campus
+6123,Female,Computer Science,High,Yes,Yes,Off-Campus
+6126,Male,Engineering,High,Yes,No,Off-Campus
+6128,Female,Others,High,No,No,Off-Campus
+6131,Male,Law,Moderate,No,No,Off-Campus
+6133,Male,Computer Science,Moderate,Yes,No,Off-Campus
+6134,Female,Business,High,Yes,Yes,On-Campus
+6139,Female,Computer Science,Moderate,No,No,On-Campus
+6147,Female,Others,Low,No,No,On-Campus
+6151,Male,Law,Low,No,No,Off-Campus
+6152,Female,Law,Low,No,No,On-Campus
+6155,Female,Law,Moderate,Yes,No,On-Campus
+6156,Female,Engineering,Moderate,No,No,Off-Campus
+6158,Male,Law,Moderate,No,No,Off-Campus
+6159,Male,Computer Science,High,Yes,No,On-Campus
+6161,Male,Others,Low,No,No,On-Campus
+6164,Female,Engineering,Low,Yes,No,Off-Campus
+6165,Male,Engineering,Low,Yes,No,Off-Campus
+6168,Female,Others,Moderate,No,Yes,Off-Campus
+6170,Male,Law,Moderate,No,No,Off-Campus
+6171,Male,Others,High,Yes,Yes,Off-Campus
+6173,Male,Law,High,No,No,On-Campus
+6177,Male,Law,Low,No,No,Off-Campus
+6179,Female,Law,Moderate,Yes,No,On-Campus
+6181,Female,Computer Science,Moderate,No,No,Off-Campus
+6185,Male,Law,Moderate,No,No,Off-Campus
+6186,Female,Computer Science,Moderate,No,No,On-Campus
+6187,Female,Computer Science,Moderate,No,No,Off-Campus
+6189,Female,Law,Low,No,Yes,On-Campus
+6193,Male,Engineering,High,Yes,Yes,Off-Campus
+6194,Male,Business,Moderate,Yes,Yes,On-Campus
+6197,Female,Law,High,No,Yes,Off-Campus
+6200,Male,Law,High,No,No,Off-Campus
+6201,Male,Law,Moderate,No,Yes,On-Campus
+6202,Male,Law,Low,No,No,Off-Campus
+6211,Female,Law,Moderate,No,No,On-Campus
+6212,Female,Law,Moderate,No,Yes,Off-Campus
+6216,Female,Computer Science,Moderate,Yes,No,Off-Campus
+6218,Male,Computer Science,High,No,No,Off-Campus
+6219,Male,Computer Science,Low,No,No,On-Campus
+6220,Male,Others,Low,No,Yes,On-Campus
+6222,Female,Law,Moderate,No,Yes,Off-Campus
+6225,Female,Engineering,Moderate,No,No,On-Campus
+6228,Female,Law,Moderate,No,No,On-Campus
+6229,Female,Law,Low,No,Yes,Off-Campus
+6238,Female,Law,High,Yes,Yes,On-Campus
+6239,Male,Engineering,Moderate,Yes,No,On-Campus
+6242,Male,Computer Science,Moderate,No,No,On-Campus
+6243,Male,Law,Moderate,No,No,On-Campus
+6245,Male,Others,High,No,No,On-Campus
+6246,Male,Engineering,Moderate,No,No,Off-Campus
+6250,Male,Engineering,Moderate,No,No,Off-Campus
+6269,Male,Computer Science,Moderate,Yes,No,Off-Campus
+6273,Female,Law,Moderate,No,No,Off-Campus
+6274,Male,Computer Science,Low,No,Yes,Off-Campus
+6277,Female,Engineering,Moderate,Yes,No,Off-Campus
+6278,Male,Engineering,Moderate,No,Yes,Off-Campus
+6280,Female,Law,Moderate,No,No,Off-Campus
+6282,Female,Law,High,No,No,Off-Campus
+6287,Female,Law,Low,Yes,No,On-Campus
+6292,Female,Law,Moderate,Yes,No,Off-Campus
+6300,Female,Engineering,Moderate,Yes,No,Off-Campus
+6301,Male,Computer Science,Low,Yes,Yes,Off-Campus
+6303,Female,Engineering,Moderate,Yes,No,On-Campus
+6304,Male,Engineering,High,Yes,Yes,On-Campus
+6306,Male,Computer Science,Low,No,Yes,Off-Campus
+6308,Female,Business,Moderate,No,Yes,Off-Campus
+6309,Male,Others,Low,Yes,Yes,On-Campus
+6316,Female,Business,Moderate,Yes,No,On-Campus
+6318,Female,Computer Science,Moderate,Yes,No,On-Campus
+6319,Male,Law,High,Yes,Yes,On-Campus
+6322,Male,Engineering,Low,No,No,On-Campus
+6325,Female,Computer Science,High,No,No,Off-Campus
+6326,Female,Law,Moderate,No,No,On-Campus
+6328,Male,Law,High,Yes,No,On-Campus
+6329,Female,Computer Science,High,No,No,Off-Campus
+6330,Female,Computer Science,Low,Yes,No,Off-Campus
+6331,Female,Computer Science,Moderate,No,No,Off-Campus
+6333,Female,Others,Low,Yes,Yes,Off-Campus
+6334,Male,Others,Moderate,Yes,Yes,Off-Campus
+6335,Male,Business,Low,Yes,Yes,Off-Campus
+6337,Female,Computer Science,Moderate,No,Yes,Off-Campus
+6341,Male,Others,Moderate,Yes,Yes,On-Campus
+6343,Female,Engineering,Moderate,No,No,On-Campus
+6349,Female,Engineering,High,No,No,Off-Campus
+6350,Male,Law,High,No,No,On-Campus
+6352,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+6355,Female,Engineering,Moderate,Yes,No,On-Campus
+6356,Male,Law,High,No,No,Off-Campus
+6358,Male,Law,Low,Yes,Yes,On-Campus
+6360,Male,Law,High,Yes,No,On-Campus
+6363,Male,Engineering,Low,No,No,Off-Campus
+6364,Male,Others,Moderate,No,No,Off-Campus
+6365,Male,Law,High,Yes,No,Off-Campus
+6367,Male,Computer Science,High,Yes,No,On-Campus
+6369,Female,Business,Low,No,No,On-Campus
+6376,Male,Others,Moderate,No,No,On-Campus
+6377,Male,Law,Moderate,Yes,No,Off-Campus
+6380,Female,Engineering,High,Yes,Yes,On-Campus
+6381,Male,Law,Moderate,Yes,No,On-Campus
+6382,Male,Business,Low,No,No,Off-Campus
+6383,Female,Engineering,Moderate,No,No,On-Campus
+6384,Female,Law,Moderate,Yes,Yes,Off-Campus
+6386,Female,Business,Moderate,Yes,Yes,On-Campus
+6392,Male,Engineering,High,No,No,Off-Campus
+6394,Female,Engineering,Moderate,No,No,On-Campus
+6396,Male,Law,Moderate,No,No,On-Campus
+6402,Male,Engineering,Moderate,No,No,Off-Campus
+6403,Female,Law,High,No,Yes,Off-Campus
+6406,Female,Law,Low,No,Yes,Off-Campus
+6407,Male,Engineering,Moderate,Yes,No,Off-Campus
+6410,Male,Engineering,High,No,No,Off-Campus
+6412,Male,Others,Moderate,No,No,Off-Campus
+6417,Male,Law,Low,No,No,Off-Campus
+6419,Female,Computer Science,Moderate,Yes,No,Off-Campus
+6433,Female,Engineering,Moderate,No,No,Off-Campus
+6435,Male,Computer Science,Moderate,Yes,No,On-Campus
+6440,Female,Engineering,Low,No,No,Off-Campus
+6441,Male,Engineering,Low,Yes,No,On-Campus
+6442,Male,Engineering,Moderate,No,No,Off-Campus
+6443,Male,Computer Science,Low,No,Yes,Off-Campus
+6446,Female,Business,Low,No,No,Off-Campus
+6452,Male,Computer Science,Moderate,No,No,On-Campus
+6456,Male,Business,Moderate,Yes,No,On-Campus
+6458,Female,Computer Science,Low,Yes,No,On-Campus
+6460,Female,Law,Moderate,No,No,On-Campus
+6462,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+6463,Female,Others,High,Yes,No,On-Campus
+6464,Male,Business,Moderate,No,Yes,Off-Campus
+6467,Male,Law,High,No,No,Off-Campus
+6469,Male,Others,High,Yes,No,On-Campus
+6470,Male,Law,Moderate,Yes,No,On-Campus
+6471,Female,Computer Science,Moderate,No,Yes,Off-Campus
+6472,Male,Law,Low,No,No,Off-Campus
+6473,Male,Others,Moderate,Yes,No,On-Campus
+6477,Male,Others,Moderate,Yes,No,On-Campus
+6481,Male,Others,Low,No,No,Off-Campus
+6485,Female,Computer Science,High,Yes,No,Off-Campus
+6486,Female,Others,Moderate,No,No,Off-Campus
+6489,Female,Law,Moderate,No,No,Off-Campus
+6490,Male,Business,High,No,No,On-Campus
+6492,Female,Law,Moderate,No,Yes,Off-Campus
+6493,Female,Others,High,No,No,Off-Campus
+6494,Female,Engineering,Moderate,No,Yes,On-Campus
+6497,Male,Business,Moderate,No,No,On-Campus
+6500,Male,Engineering,Low,Yes,No,On-Campus
+6502,Male,Law,High,Yes,Yes,Off-Campus
+6503,Female,Law,Moderate,No,No,Off-Campus
+6506,Male,Others,Moderate,Yes,Yes,On-Campus
+6509,Female,Law,Moderate,Yes,No,On-Campus
+6510,Male,Engineering,High,No,No,On-Campus
+6514,Male,Computer Science,Moderate,Yes,Yes,On-Campus
+6516,Female,Business,Moderate,Yes,No,Off-Campus
+6519,Female,Engineering,Low,Yes,Yes,On-Campus
+6523,Male,Engineering,High,Yes,No,On-Campus
+6525,Male,Law,Moderate,No,No,On-Campus
+6527,Female,Law,Moderate,Yes,No,Off-Campus
+6531,Female,Law,High,No,Yes,On-Campus
+6534,Female,Law,High,Yes,No,On-Campus
+6536,Female,Computer Science,Low,No,Yes,On-Campus
+6542,Female,Law,High,Yes,No,Off-Campus
+6547,Male,Computer Science,Moderate,Yes,No,On-Campus
+6548,Female,Computer Science,Moderate,Yes,No,Off-Campus
+6552,Male,Engineering,High,No,No,On-Campus
+6553,Male,Law,High,Yes,Yes,On-Campus
+6554,Female,Law,Moderate,Yes,No,Off-Campus
+6555,Male,Business,Moderate,Yes,Yes,Off-Campus
+6557,Female,Others,High,Yes,No,On-Campus
+6558,Female,Others,High,Yes,No,On-Campus
+6563,Male,Law,Low,Yes,No,On-Campus
+6573,Female,Business,Moderate,Yes,Yes,Off-Campus
+6576,Female,Engineering,High,No,No,On-Campus
+6577,Male,Computer Science,High,No,Yes,Off-Campus
+6579,Male,Law,Moderate,No,No,On-Campus
+6580,Male,Others,Moderate,No,Yes,Off-Campus
+6582,Male,Law,Moderate,No,No,Off-Campus
+6584,Male,Others,High,No,No,On-Campus
+6585,Female,Law,High,No,No,Off-Campus
+6586,Female,Business,Moderate,No,No,On-Campus
+6588,Male,Engineering,High,No,No,Off-Campus
+6590,Male,Engineering,Moderate,No,No,On-Campus
+6592,Male,Computer Science,High,Yes,No,Off-Campus
+6593,Female,Law,Moderate,No,Yes,Off-Campus
+6597,Female,Others,Moderate,No,No,Off-Campus
+6598,Male,Engineering,Moderate,Yes,Yes,On-Campus
+6599,Male,Law,Moderate,No,Yes,Off-Campus
+6600,Female,Computer Science,Low,No,No,On-Campus
+6604,Male,Law,High,No,Yes,On-Campus
+6606,Female,Law,Low,Yes,No,On-Campus
+6607,Female,Others,High,Yes,Yes,On-Campus
+6609,Male,Engineering,High,Yes,No,On-Campus
+6610,Female,Law,Moderate,No,No,Off-Campus
+6612,Male,Others,High,Yes,No,Off-Campus
+6615,Female,Computer Science,Moderate,No,No,On-Campus
+6618,Female,Computer Science,Moderate,Yes,No,On-Campus
+6624,Male,Computer Science,High,Yes,No,Off-Campus
+6626,Female,Law,Moderate,No,No,Off-Campus
+6628,Male,Law,Low,No,No,On-Campus
+6629,Female,Engineering,High,Yes,Yes,On-Campus
+6631,Female,Engineering,Moderate,No,No,On-Campus
+6634,Male,Law,High,No,No,Off-Campus
+6636,Male,Business,Moderate,Yes,Yes,Off-Campus
+6637,Male,Others,High,No,No,Off-Campus
+6644,Female,Computer Science,Moderate,No,No,Off-Campus
+6645,Male,Law,Moderate,Yes,Yes,On-Campus
+6647,Male,Law,Low,Yes,No,Off-Campus
+6653,Male,Law,High,Yes,No,On-Campus
+6657,Male,Business,High,No,No,Off-Campus
+6663,Female,Law,High,No,No,On-Campus
+6667,Female,Others,Moderate,No,Yes,Off-Campus
+6668,Female,Others,Low,No,No,Off-Campus
+6669,Male,Law,Moderate,Yes,No,On-Campus
+6675,Male,Others,Low,Yes,No,On-Campus
+6677,Female,Law,High,Yes,Yes,On-Campus
+6684,Male,Computer Science,Low,No,No,Off-Campus
+6687,Male,Law,Low,Yes,Yes,Off-Campus
+6688,Female,Others,Moderate,Yes,No,Off-Campus
+6689,Male,Others,Low,Yes,No,On-Campus
+6691,Female,Law,High,Yes,No,On-Campus
+6692,Female,Business,Low,Yes,No,On-Campus
+6698,Male,Others,High,Yes,No,Off-Campus
+6699,Female,Computer Science,Low,Yes,No,On-Campus
+6700,Female,Engineering,Moderate,No,No,On-Campus
+6702,Male,Engineering,Low,Yes,Yes,On-Campus
+6709,Male,Computer Science,Moderate,No,No,Off-Campus
+6710,Male,Computer Science,High,No,No,Off-Campus
+6711,Male,Others,Moderate,Yes,No,On-Campus
+6712,Female,Engineering,Low,No,No,On-Campus
+6718,Female,Engineering,Moderate,No,Yes,Off-Campus
+6719,Female,Engineering,High,No,No,Off-Campus
+6721,Male,Engineering,High,No,No,On-Campus
+6722,Male,Business,Moderate,No,No,Off-Campus
+6724,Female,Engineering,Moderate,Yes,No,On-Campus
+6725,Female,Business,Moderate,No,No,Off-Campus
+6726,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+6727,Male,Computer Science,Low,No,No,On-Campus
+6728,Female,Law,Moderate,Yes,No,Off-Campus
+6731,Female,Computer Science,Low,No,Yes,Off-Campus
+6732,Female,Computer Science,Moderate,Yes,Yes,On-Campus
+6734,Male,Computer Science,High,No,Yes,Off-Campus
+6736,Female,Others,Moderate,No,No,Off-Campus
+6737,Male,Law,Moderate,No,Yes,Off-Campus
+6738,Female,Engineering,Moderate,No,No,On-Campus
+6739,Female,Law,High,No,No,Off-Campus
+6746,Male,Computer Science,High,No,No,Off-Campus
+6748,Male,Engineering,High,Yes,No,Off-Campus
+6750,Female,Business,Moderate,Yes,No,On-Campus
+6754,Male,Computer Science,Moderate,No,No,On-Campus
+6755,Female,Others,Low,No,Yes,On-Campus
+6758,Female,Computer Science,Low,No,No,Off-Campus
+6760,Female,Business,High,No,No,On-Campus
+6764,Male,Computer Science,Moderate,No,Yes,Off-Campus
+6767,Male,Engineering,Moderate,No,No,Off-Campus
+6768,Male,Business,Moderate,Yes,Yes,Off-Campus
+6769,Male,Engineering,Moderate,No,No,Off-Campus
+6771,Female,Engineering,Moderate,No,No,On-Campus
+6773,Male,Law,Moderate,No,Yes,Off-Campus
+6781,Female,Law,High,Yes,Yes,Off-Campus
+6783,Male,Engineering,Moderate,Yes,No,Off-Campus
+6788,Female,Business,High,No,No,On-Campus
+6791,Male,Engineering,High,No,No,On-Campus
+6792,Male,Law,Moderate,No,Yes,Off-Campus
+6793,Female,Computer Science,High,Yes,Yes,Off-Campus
+6794,Male,Law,High,No,No,On-Campus
+6796,Female,Law,Moderate,Yes,No,On-Campus
+6797,Male,Business,Low,No,No,On-Campus
+6798,Male,Others,Moderate,Yes,No,Off-Campus
+6802,Male,Computer Science,High,No,No,On-Campus
+6806,Male,Law,Moderate,No,No,Off-Campus
+6808,Male,Computer Science,Low,No,No,On-Campus
+6816,Female,Law,High,No,No,On-Campus
+6817,Female,Engineering,High,No,No,Off-Campus
+6819,Female,Computer Science,Moderate,No,Yes,Off-Campus
+6826,Female,Computer Science,Low,No,Yes,On-Campus
+6827,Male,Engineering,High,No,No,On-Campus
+6829,Male,Law,High,No,No,Off-Campus
+6830,Female,Engineering,Low,Yes,No,On-Campus
+6831,Male,Business,Low,No,No,Off-Campus
+6833,Male,Law,High,Yes,No,On-Campus
+6834,Female,Engineering,Moderate,Yes,No,Off-Campus
+6836,Male,Others,High,Yes,No,On-Campus
+6837,Male,Engineering,Low,No,Yes,On-Campus
+6840,Male,Law,High,No,Yes,On-Campus
+6842,Male,Law,Moderate,Yes,No,Off-Campus
+6843,Male,Law,High,Yes,Yes,Off-Campus
+6845,Female,Engineering,Low,No,Yes,Off-Campus
+6847,Female,Law,Moderate,No,Yes,Off-Campus
+6853,Female,Others,Moderate,No,No,Off-Campus
+6856,Male,Others,High,No,No,Off-Campus
+6857,Male,Business,Moderate,Yes,No,Off-Campus
+6859,Female,Business,Moderate,Yes,No,Off-Campus
+6860,Female,Others,High,No,Yes,On-Campus
+6862,Male,Engineering,Moderate,Yes,No,On-Campus
+6863,Male,Computer Science,Moderate,No,No,Off-Campus
+6865,Female,Engineering,Low,Yes,No,On-Campus
+6867,Male,Others,High,No,Yes,On-Campus
+6870,Male,Computer Science,High,No,No,Off-Campus
+6873,Male,Law,Moderate,No,No,On-Campus
+6876,Male,Law,Low,Yes,No,On-Campus
+6878,Female,Engineering,Moderate,No,Yes,On-Campus
+6880,Female,Others,Moderate,No,Yes,On-Campus
+6881,Male,Others,Moderate,No,Yes,On-Campus
+6882,Male,Law,High,Yes,Yes,Off-Campus
+6883,Male,Others,Moderate,No,No,On-Campus
+6885,Male,Computer Science,High,Yes,No,Off-Campus
+6891,Male,Computer Science,Moderate,Yes,No,Off-Campus
+6896,Female,Engineering,Low,Yes,No,Off-Campus
+6897,Female,Business,Low,No,No,On-Campus
+6898,Female,Engineering,Low,No,Yes,Off-Campus
+6899,Female,Engineering,High,No,No,Off-Campus
+6901,Male,Engineering,Low,Yes,Yes,On-Campus
+6903,Female,Law,Moderate,No,No,On-Campus
+6904,Female,Business,Moderate,No,No,On-Campus
+6905,Female,Computer Science,Low,No,Yes,Off-Campus
+6907,Male,Engineering,Moderate,No,No,On-Campus
+6909,Male,Law,Moderate,No,No,Off-Campus
+6910,Male,Engineering,Low,No,No,Off-Campus
+6913,Female,Engineering,Moderate,No,Yes,Off-Campus
+6920,Male,Law,High,Yes,No,Off-Campus
+6921,Female,Others,High,No,Yes,Off-Campus
+6922,Female,Engineering,Moderate,No,Yes,Off-Campus
+6926,Male,Engineering,High,No,Yes,Off-Campus
+6927,Male,Computer Science,Moderate,No,Yes,Off-Campus
+6928,Female,Others,Moderate,No,Yes,On-Campus
+6929,Female,Law,High,No,Yes,On-Campus
+6930,Male,Others,Low,Yes,No,On-Campus
+6931,Male,Computer Science,Moderate,Yes,No,Off-Campus
+6932,Male,Others,Moderate,No,No,Off-Campus
+6937,Female,Business,High,No,No,Off-Campus
+6939,Male,Business,High,No,Yes,Off-Campus
+6940,Female,Law,High,No,Yes,Off-Campus
+6944,Male,Engineering,Moderate,No,No,Off-Campus
+6945,Male,Law,Moderate,Yes,No,On-Campus
+6946,Female,Computer Science,Low,No,No,On-Campus
+6947,Male,Business,Moderate,Yes,No,Off-Campus
+6949,Male,Computer Science,Moderate,No,Yes,On-Campus
+6953,Male,Law,High,No,No,Off-Campus
+6954,Female,Engineering,Moderate,No,Yes,Off-Campus
+6957,Male,Computer Science,Moderate,No,Yes,Off-Campus
+6960,Female,Computer Science,Moderate,No,No,Off-Campus
+6961,Female,Engineering,Low,No,No,On-Campus
+6962,Male,Engineering,Moderate,No,No,Off-Campus
+6964,Male,Engineering,Low,Yes,Yes,Off-Campus
+6965,Female,Law,Low,No,Yes,On-Campus
+6970,Male,Computer Science,Moderate,No,No,Off-Campus
+6971,Female,Law,Moderate,No,No,Off-Campus
+6977,Female,Computer Science,Moderate,No,Yes,Off-Campus
+6980,Female,Engineering,Moderate,Yes,No,Off-Campus
+6981,Male,Law,Low,No,Yes,On-Campus
+6989,Male,Law,High,Yes,No,Off-Campus
+6991,Male,Business,Moderate,Yes,No,Off-Campus
+6992,Female,Computer Science,Low,No,Yes,On-Campus
+6993,Male,Computer Science,Moderate,No,No,On-Campus
+6994,Female,Computer Science,Moderate,No,No,Off-Campus
+6997,Male,Engineering,Moderate,Yes,Yes,Off-Campus
+6998,Male,Law,Moderate,Yes,No,Off-Campus
+7002,Male,Engineering,High,No,No,On-Campus
+7007,Female,Computer Science,Low,Yes,No,On-Campus
+7009,Female,Computer Science,Moderate,No,No,On-Campus
+7012,Male,Computer Science,High,Yes,No,On-Campus
+7013,Male,Law,High,Yes,No,Off-Campus
+7015,Female,Engineering,Low,No,Yes,On-Campus
+7016,Female,Law,Moderate,Yes,No,Off-Campus
+7017,Female,Law,High,Yes,Yes,Off-Campus
